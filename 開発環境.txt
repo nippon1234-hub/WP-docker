@@ -1,0 +1,5 @@
+docker local 環境
+
+WordPress サイト: http://localhost:8080
+phpMyAdmin: http://localhost:8081
+

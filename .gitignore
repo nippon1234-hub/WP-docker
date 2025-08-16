@@ -1,0 +1,64 @@
+# WordPress関連
+# WordPressコアファイルは除外（Dockerで管理するため）
+wp-admin/
+wp-includes/
+*.php
+!wp-content/
+
+# WordPress設定ファイル
+wp-config.php
+wp-config-sample.php
+
+# アップロードファイル（画像など）
+wp-content/uploads/
+wp-content/cache/
+wp-content/backup*/
+wp-content/backups/
+wp-content/upgrade/
+
+# WordPress自動生成ファイル
+.htaccess
+sitemap.xml
+sitemap.xml.gz
+
+# プラグイン（管理が必要な場合は個別に追加）
+wp-content/plugins/
+# カスタムプラグインを管理したい場合
+!wp-content/plugins/your-custom-plugin/
+
+# テーマ（WordPressデフォルトテーマは除外）
+wp-content/themes/twenty*/
+# カスタムテーマを管理する場合
+!wp-content/themes/your-custom-theme/
+
+# Docker関連
+# データベースボリューム
+db_data/
+
+# 環境設定（秘匿情報）
+.env
+
+# OS関連
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# エディタ関連
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ログファイル
+*.log
+error_log
+access_log
+
+# 一時ファイル
+*.tmp
+*.temp

@@ -1,0 +1,18 @@
+日本党　docker
+
+
+サイトのタイトル
+nippontou-website
+
+http://localhost:8080/wp-login.php
+
+ユーザー名
+nippontou-docker
+
+pass
+a0w9p1ipojneuksol
+
+
+日本党　PHP MYADMIN
+user name:wordpress
+pass:wordpress_password
