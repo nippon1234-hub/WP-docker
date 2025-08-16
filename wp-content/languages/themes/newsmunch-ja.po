@@ -1,0 +1,1703 @@
+# Translation of Themes - NewsMunch in Japanese
+# This file is distributed under the same license as the Themes - NewsMunch package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-04-18 12:05:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - NewsMunch\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsMunch is a fast, clean, Best Responsive News Magazine WordPress theme. NewsMunch is suitable for dynamic news, newspapers, magazine, publishers, blogs, editors, online and gaming magazines, newsportals,personal blogs, newspaper, publishing or review siteand any creative website. With its modern and clean design, NewsMunch offers a visually appealing layout that is easy to navigate, making it ideal for delivering content to your readers. This theme comes equipped with a range of customizable options, custom widgets, and color schemes, allowing you to tailor your website to your specific needs and branding. It also supports various post formats, making it easy to present a variety of content types, from articles and videos to images and galleries. NewsMunch is optimized for speed and SEO, ensuring that your website loads quickly and ranks well in search engine results. Its responsive design ensures that your content looks great on all devices, whether it's a desktop computer, tablet, or smartphone. NewsMunch demos https://preview.desertthemes.com/newsmunch/"
+msgstr "NewsMunch は、高速、クリーン、最高のレスポンシブなニュース マガジン WordPress テーマです。 NewsMunch は、動的なニュース、新聞、雑誌、出版社、ブログ、編集者、オンラインおよびゲーム雑誌、ニュースポータル、個人のブログ、新聞、出版またはレビュー サイト、およびあらゆるクリエイティブな Web サイトに適しています。 NewsMunch はモダンでクリーンなデザインで、ナビゲートしやすい視覚的に魅力的なレイアウトを提供し、読者にコンテンツを配信するのに最適です。このテーマには、さまざまなカスタマイズ可能なオプション、カスタム ウィジェット、配色が備わっており、Web サイトを特定のニーズやブランディングに合わせてカスタマイズできます。さまざまな投稿フォーマットにも対応しているので、記事や動画から画像やギャラリーまで、さまざまなコンテンツを簡単に表示できます。 NewsMunch は速度と SEO に関して最適化されており、Web サイトが迅速に読み込まれ、検索エンジンの結果で上位にランクされるようになります。レスポンシブ デザインにより、デスクトップ コンピューター、タブレット、スマートフォンなど、すべてのデバイスでコンテンツが美しく表示されます。 NewsMunch のデモ https://preview.desertthemes.com/newsmunch/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsMunch"
+msgstr "NewsMunch"
+
+#: template-parts/section-slider.php:23
+msgid "4 dt-col-lg-4"
+msgstr "4 dt-col-lg-4"
+
+#: template-parts/section-slider.php:17 template-parts/section-slider.php:23
+msgid "3 dt-col-md-6"
+msgstr "3 dt-col-md-6"
+
+#: template-parts/section-slider.php:17
+msgid "8 dt-col-lg-8"
+msgstr "8 dt-col-lg-8"
+
+#: inc/extras.php:1034
+msgid "fab fa-youtube"
+msgstr "fab fa-youtube"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:322
+msgid "You Missed Types"
+msgstr "タイプを見逃しています"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:187
+msgid "Top Tags Styles"
+msgstr "人気のタグのスタイル"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1420
+msgid "Background Styles"
+msgstr "背景のスタイル"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1387
+msgid "Color Styles"
+msgstr "色のスタイル"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1354
+msgid "Pagination Styles"
+msgstr "ページ送りスタイル"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:722
+msgid "Sidebar Features"
+msgstr "サイドバーの機能"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:383
+msgid "Breadcrumb Types"
+msgstr "パンくずリストの形式"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:809
+msgid "Slider Types"
+msgstr "スライダーの種類:"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:299
+msgid "Featured Types"
+msgstr "注目のタイプ"
+
+#: inc/customizer/controls/code/upgrade/class-customize.php:73
+msgid "Upgrade to NewsMunch Pro"
+msgstr "NewsMunch Pro にアップグレードする"
+
+#: woocommerce/content-product.php:32
+msgid "Sale"
+msgstr "販売"
+
+#: woocommerce/cart/mini-cart.php:119
+msgid "Remove this item"
+msgstr "この項目を削除"
+
+#: woocommerce/cart/mini-cart.php:74 woocommerce/cart/mini-cart.php:159
+msgid "No products in the cart."
+msgstr "カートに商品はありません。"
+
+#: woocommerce/cart/mini-cart.php:68 woocommerce/cart/mini-cart.php:154
+msgid "Checkout"
+msgstr "購入手続き"
+
+#: woocommerce/cart/mini-cart.php:68 woocommerce/cart/mini-cart.php:154
+msgid "View Cart"
+msgstr "お買い物カゴを表示"
+
+#: woocommerce/cart/mini-cart.php:66 woocommerce/cart/mini-cart.php:152
+msgid "Subtotal:"
+msgstr "小計:"
+
+#: template-parts/site-header.php:18 template-parts/site-header.php:87
+msgid "data-bg-image"
+msgstr "data-bg-image"
+
+#: template-parts/site-header.php:17 template-parts/site-header.php:87
+msgid "is--sticky"
+msgstr "is--sticky"
+
+#: template-parts/site-breadcrumb.php:11
+msgid "dt-py-3"
+msgstr "dt-py-3"
+
+#: template-parts/site-breadcrumb.php:11
+msgid "style-2"
+msgstr "style-2"
+
+#: template-parts/section-slider.php:11
+msgid "6"
+msgstr "6"
+
+#: template-parts/section-slider.php:11
+msgid "9"
+msgstr "9"
+
+#: template-parts/section-slider.php:11
+msgid "12"
+msgstr "12"
+
+#: template-parts/content.php:28
+msgid "Pages:"
+msgstr "Pages:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:23
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s 続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:38
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:31
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/content-author.php:24
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "まだ経歴情報を入力していません。 %1$s今すぐプロフィールを編集してください%2$s。"
+
+#: single.php:52
+msgid "Comments"
+msgstr "コメント"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "ビルダーページ"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "全幅ページ"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "フロントページ"
+
+#: inc/widgets/widgets-init.php:208
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widgets-init.php:197
+msgid "Choose Image"
+msgstr "画像の選択"
+
+#: inc/widgets/widgets-init.php:196
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: inc/widgets/widgets-init.php:195
+msgid "Upload"
+msgstr "アップロードする"
+
+#: inc/widgets/latest-post-list.php:24
+msgid "DT: Latest Post List"
+msgstr "DT: 最新投稿リスト"
+
+#: inc/widgets/latest-post-grid.php:159 inc/widgets/latest-post-list.php:172
+msgid "Enable Background & Padding"
+msgstr "背景とパディングを有効にする"
+
+#: inc/widgets/latest-post-grid.php:156 inc/widgets/latest-post-list.php:169
+msgid "Load More Button Label"
+msgstr "さらに読み込むボタンのラベル"
+
+#: inc/widgets/latest-post-grid.php:155 inc/widgets/latest-post-list.php:168
+msgid "Number of Post to Show Before Load More Button"
+msgstr "「さらに読み込む」ボタンの前に表示する投稿の数"
+
+#: inc/widgets/latest-post-grid.php:154 inc/widgets/latest-post-list.php:167
+msgid "Number of Post to Show"
+msgstr "表示する投稿の数"
+
+#: inc/widgets/latest-post-grid.php:152 inc/widgets/latest-post-list.php:165
+msgid "Select Blog Category"
+msgstr "ブログカテゴリを選択してください"
+
+#: inc/widgets/latest-post-grid.php:24
+msgid "DT: Latest Post Grid"
+msgstr "DT: 最新の投稿グリッド"
+
+#: inc/widgets/latest-post-grid.php:20 inc/widgets/latest-post-list.php:20
+msgid "Displays posts from selected category."
+msgstr "選択したカテゴリの投稿を表示します。"
+
+#: inc/template-tags.php:663 inc/template-tags.php:696
+msgid "0"
+msgstr "0"
+
+#: inc/template-tags.php:617
+msgid "Or check our Popular Categories..."
+msgstr "または、人気のカテゴリをチェックしてください..."
+
+#: inc/template-tags.php:608
+msgid "search Here"
+msgstr "検索する"
+
+#: inc/template-tags.php:607
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: inc/template-tags.php:602
+msgid "search again"
+msgstr "再検索"
+
+#: inc/template-tags.php:132
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: inc/template-tags.php:95
+msgid "Archive by category"
+msgstr "カテゴリー別アーカイブ"
+
+#: inc/template-tags.php:90 inc/template-tags.php:93
+msgid "Home"
+msgstr "ホームページ"
+
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:53
+msgid "Search results for"
+msgstr "検索結果:"
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:46
+msgid "404"
+msgstr "404"
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:46
+msgid "%1$s "
+msgstr "%1$s "
+
+#. translators: %1$s %2$s: WooCommerce
+#: inc/template-tags.php:36
+msgid "Shop"
+msgstr "ショップ"
+
+#. translators: %1$s %2$s: tag
+#: inc/template-tags.php:33
+msgid "Tag"
+msgstr "タグ"
+
+#. translators: %1$s %2$s: category
+#: inc/template-tags.php:30
+msgid "Category"
+msgstr "カテゴリー"
+
+#. translators: %1$s %2$s: author
+#: inc/template-tags.php:27
+msgid "All posts by"
+msgstr "のすべての投稿"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#: inc/template-tags.php:18 inc/template-tags.php:21 inc/template-tags.php:24
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#. translators: %1$s %2$s: author
+#. translators: %1$s %2$s: category
+#. translators: %1$s %2$s: tag
+#. translators: %1$s %2$s: WooCommerce
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:18 inc/template-tags.php:21 inc/template-tags.php:24
+#: inc/template-tags.php:27 inc/template-tags.php:30 inc/template-tags.php:33
+#: inc/template-tags.php:36 inc/template-tags.php:53
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/extras.php:1029
+msgid "fab fa-x-twitter"
+msgstr "fab fa-x-twitter"
+
+#: inc/extras.php:1024
+msgid "fab fa-instagram"
+msgstr "fab fa-instagram"
+
+#: inc/extras.php:1020 inc/extras.php:1025 inc/extras.php:1030
+#: inc/extras.php:1035
+msgid "#"
+msgstr "#"
+
+#: inc/extras.php:1019
+msgid "fab fa-facebook-f"
+msgstr "fab fa-facebook-f"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/extras.php:860
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/extras.php:707 single.php:67
+msgid "Read More"
+msgstr "「続きを読む」"
+
+#: inc/extras.php:517
+msgid "View all posts in %s"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/extras.php:418
+msgid "<a href=\"#\">Desert Themes</a>"
+msgstr "<a href=\"#\">Desert Themes</a>"
+
+#: inc/extras.php:208
+msgid "Recent"
+msgstr "最近使用した書式"
+
+#: inc/extras.php:202
+msgid "Trending"
+msgstr "現在の人気"
+
+#: inc/extras.php:196
+msgid "Popular"
+msgstr "人気"
+
+#: inc/extras.php:38 inc/extras.php:113
+#: template-parts/section-you-missed.php:38
+msgid "By"
+msgstr "投稿者"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:292
+msgid "Number of You Missed"
+msgstr "見逃した数"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:134
+msgid "Posts to be shown on You Missed section"
+msgstr "「見逃した」セクションに表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:115
+msgid "You Missed Content"
+msgstr "コンテンツを見逃しました"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:82
+msgid "You Missed"
+msgstr "見逃しました"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:73
+msgid "You Missed Content Head"
+msgstr "コンテンツヘッドを見逃しています"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:31
+msgid "You Missed Setting"
+msgstr "設定を忘れました"
+
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:9
+msgid "You Missed Section"
+msgstr "見逃したセクション"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:546
+msgid "Text Transform"
+msgstr "文字の変形"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:492
+msgid "Font Weight"
+msgstr "フォントの太さ"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:369
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:307
+msgid "Headings (H1-H6) Typography"
+msgstr "見出し (H1 ～ H6) タイポグラフィ"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:293
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:598
+msgid "Typography Features"
+msgstr "タイポグラフィーの特徴"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:272
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:577
+msgid "Line Through"
+msgstr "取り消し線"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:271
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:576
+msgid "Overline"
+msgstr "上線"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:270
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:575
+msgid "Underline"
+msgstr "アンダーライン"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:264
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:570
+msgid "Text Decoration"
+msgstr "テキスト装飾"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:247
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:553
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:246
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:552
+msgid "Lowercase"
+msgstr "小文字にする"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:245
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:551
+msgid "Uppercase"
+msgstr "大文字にする"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:239
+msgid "Transform"
+msgstr "変換"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:223
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:529
+msgid "oblique"
+msgstr "斜体"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:222
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:528
+msgid "Italic"
+msgstr "斜体"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:221
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:527
+msgid "Normal"
+msgstr "通常"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:220
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:269
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:496
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:526
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:574
+msgid "Inherit"
+msgstr "継承する"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:215
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:522
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:198
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:505
+msgid "Black: 900"
+msgstr "Black: 900"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:197
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:504
+msgid "Extra Bold: 800"
+msgstr "Extra Bold: 800"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:196
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:503
+msgid "Bold: 700"
+msgstr "Bold: 700"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:195
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:502
+msgid "Semibold: 600"
+msgstr "Semibold: 600"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:194
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:501
+msgid "Medium: 500"
+msgstr "Medium: 500"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:193
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:500
+msgid "Normal: 400"
+msgstr "Normal: 400"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:192
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:499
+msgid "Book: 300"
+msgstr "Book: 300"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:191
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:498
+msgid "Light: 200"
+msgstr "Light: 200"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:190
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:497
+msgid "Thin: 100"
+msgstr "Thin: 100"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:184
+msgid "Weight"
+msgstr "太字"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:145
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:454
+msgid "Letter Spacing"
+msgstr "文字間隔"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:103
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:409
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:62
+msgid "Size"
+msgstr "大きさ"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:38
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:345
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:19
+msgid "Body Typography"
+msgstr "本文のタイポグラフィ"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:146
+msgid "Latest Story Title"
+msgstr "最新話タイトル"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:135
+msgid "Latest Story"
+msgstr "最新話"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:125
+msgid "Top Tags Title"
+msgstr "トップタグ タイトル"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:114
+msgid "Top Tags"
+msgstr "人気のタグ"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:97
+msgid "Display Top Tags & Latest Story on"
+msgstr "トップタグと最新ストーリーを表示"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:77
+msgid "Hide/Show Latest Story?"
+msgstr "最新のストーリーを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:57
+msgid "Hide/Show Top Tags?"
+msgstr "トップタグを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:38
+msgid "Top Tags & Latest Story Setting"
+msgstr "人気のタグと最新のストーリー設定"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:16
+msgid "Top Tags & Latest Story Section"
+msgstr "トップタグと最新ストーリーセクション"
+
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:10
+msgid "Theme Frontpage"
+msgstr "テーマのフロントページ"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1366
+msgid "Colors"
+msgstr "色"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1334
+msgid "Next / Preview"
+msgstr "次へ / プレビュー"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1333
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:43
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:189
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:244
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:349
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:550
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1309
+msgid "Post Pagination"
+msgstr "投稿のページ送り"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1287
+msgid "Classic"
+msgstr "クラシック"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1286
+msgid "Grid"
+msgstr "グリッド"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1285
+msgid "List"
+msgstr "一覧"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1280
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1328
+msgid "Select Type"
+msgstr "種類を選択"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1261
+msgid "Archive Layout"
+msgstr "アーカイブレイアウト"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1238
+msgid "Read More Label"
+msgstr "続きを読むラベル"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1228
+msgid "Continue reading"
+msgstr "続きを読む"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1197
+msgid "Hide/Show Social Share?"
+msgstr "ソーシャルアイコンを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1178
+msgid "Hide/Show Content?"
+msgstr "コンテンツを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1157
+msgid "Hide/Show Reading Time?"
+msgstr "読書時間を非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1138
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:233
+msgid "Hide/Show View?"
+msgstr "ビューを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1019
+msgid "Read More Button Text"
+msgstr "「続きを読む」ボタンのテキスト"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1008
+msgid "Read more"
+msgstr "もっと読む"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:999
+msgid "Enable Read More Button"
+msgstr "続きを読むボタンを有効にする"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:978
+msgid "Excerpt More"
+msgstr "さらに抜粋"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:949
+msgid "Excerpt Length"
+msgstr "概要の長さ"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:929
+msgid "Enable Excerpt"
+msgstr "抜粋を有効化する"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:908
+msgid "Post Excerpt"
+msgstr "投稿抜粋"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:886
+msgid "Blog Options"
+msgstr "ブログ設定"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:853
+msgid "Widget Title Font Size"
+msgstr "ウィジェットタイトルのフォントサイズ"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:796
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:816
+msgid "Sticky Sidebar"
+msgstr "固定サイドバー"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:766
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:756
+msgid "33"
+msgstr "33"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:744
+msgid "Options"
+msgstr "オプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:695
+msgid "Author Page Sidebar Option"
+msgstr "著者ページのサイドバー オプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:669
+msgid "WooCommerce Page Sidebar Option"
+msgstr "WooCommerce ページのサイドバー オプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:642
+msgid "Search Page Sidebar Option"
+msgstr "検索ページのサイドバー オプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:616
+msgid "Blog Page Sidebar Option"
+msgstr "ブログページのサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:589
+msgid "Single Page Sidebar Option"
+msgstr "単一ページのサイドバー オプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:562
+msgid "Archive Page Sidebar Option"
+msgstr "アーカイブ ページのサイドバー オプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:543
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:569
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:596
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:623
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:649
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:676
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:702
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:542
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:568
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:595
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:622
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:648
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:675
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:701
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:541
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:567
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:594
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:621
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:647
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:674
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:700
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:536
+msgid "Default Page Sidebar Option"
+msgstr "デフォルトのページサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:517
+msgid "Sidebar Layout"
+msgstr "サイドバーレイアウト"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:498
+msgid "Sidebar Options"
+msgstr "サイドバー設定"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:462
+msgid "Content Font Size"
+msgstr "コンテンツのフォントサイズ"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:424
+msgid "Title Font Size"
+msgstr "タイトル文字サイズ"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:405
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:834
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:8
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:363
+msgid "NavXT Plugin"
+msgstr "NavXT プラグイン"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:362
+msgid "Rank Math Plugin"
+msgstr "ランク計算プラグイン"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:361
+msgid "Yoast Plugin"
+msgstr "Yoast プラグイン"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:355
+msgid "You need to install and activate the respected plugin to show their Breadcrumb. Otherwise, your default theme Breadcrumb will appear. If you see error in search console, then we recommend to use plugin Breadcrumb."
+msgstr "パンくずリストを表示するには、対応するプラグインをインストールしてアクティブ化する必要があります。それ以外の場合は、デフォルトのテーマのパンくずリストが表示されます。サーチコンソールにエラーが表示される場合は、パンくずリストプラグインを使用することをお勧めします。"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:354
+msgid "Select Breadcrumb Type"
+msgstr "パンくずリストの種類を選択してください"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:334
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:314
+msgid "Hide / Show Section"
+msgstr "セクションを表示 / 非表示"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:295
+msgid "Settings"
+msgstr "設定"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:275
+msgid "Site Breadcrumb"
+msgstr "サイトのブレッドクラム"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:264
+msgid "Dark"
+msgstr "ダークカラー"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:263
+msgid "Light"
+msgstr "ライト"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:258
+msgid "Select Light or  Dark Mode ?"
+msgstr "ライトモードまたはダークモードを選択しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:216
+msgid "WooCommerce Products"
+msgstr "WooCommerce 商品"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:215
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:210
+msgid "Search Result Page will Show ?"
+msgstr "検索結果ページには「?」が表示されます。"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:191
+msgid "Search Result"
+msgstr "検索結果"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:167
+msgid "Hide / Show Scroller"
+msgstr "スクローラーを非表示 / 表示"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:148
+msgid "Top Scroller"
+msgstr "トップスクローラー"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:116
+msgid "Container Width"
+msgstr "コンテナの幅"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:96
+msgid "Site Container"
+msgstr "サイトコンテナ"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:71
+msgid "Hide / Show Preloader"
+msgstr "プリローダーの表示/非表示"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:51
+msgid "Site Preloader"
+msgstr "ページプリローダー"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:27
+msgid "General Options"
+msgstr "基本設定"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:16
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:7
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:789
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1399
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:772
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:740
+msgid "Number of Post in Tab"
+msgstr "表示する投稿の数"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:661
+msgid "Posts to be shown on 3"
+msgstr "3 に表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:660
+msgid "Select Category For 3"
+msgstr "3 のカテゴリを選択してください"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:642
+msgid "Posts to be shown on 2"
+msgstr "2 に表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:641
+msgid "Select Category For 2"
+msgstr "2 のカテゴリを選択してください"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:623
+msgid "Posts to be shown on 1"
+msgstr "1 に表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:622
+msgid "Select Category For 1"
+msgstr "1 のカテゴリを選択してください"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:592
+msgid "Today Update"
+msgstr "今日のアップデート"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:581
+msgid "Hide/Show Tab Post?"
+msgstr "タブ投稿を非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:562
+msgid "Slider Content Right"
+msgstr "スライダーコンテンツ右"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:531
+msgid "Number of Post"
+msgstr "投稿数"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:391
+msgid "Posts to be shown on Left"
+msgstr "左側に表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:360
+msgid "Today Post"
+msgstr "今日の投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:350
+msgid "Hide/Show Slider Middle?"
+msgstr "スライダーの中央を非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:331
+msgid "Slider Content Middle"
+msgstr "スライダーコンテンツ中央"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:299
+msgid "Number of Slides"
+msgstr "スライドの数"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:128
+msgid "Main Story"
+msgstr "メインストーリー"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:118
+msgid "Hide/Show Slider Left?"
+msgstr "左のスライダーを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:98
+msgid "Slider Content Left"
+msgstr "スライダーコンテンツ左"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:70
+msgid "Display Slider on"
+msgstr "スライダーを表示オン"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:31
+msgid "Slider Setting"
+msgstr "スライダー設定"
+
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:9
+msgid "Slider Section"
+msgstr "スライダーセクション"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:247
+msgid "Related Posts"
+msgstr "関連記事"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:238
+msgid "Hide/Show Related Post?"
+msgstr "関連記事を表示"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:218
+msgid "Related Post"
+msgstr "関連投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:197
+msgid "Hide/Show Single Post Navigation?"
+msgstr "単一投稿ナビゲーションを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:177
+msgid "Hide/Show Single Post Author?"
+msgstr "単一投稿の作成者を非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:135
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:157
+msgid "Single Page"
+msgstr "個別投稿ページ"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:91
+msgid "Return To Home"
+msgstr "ホームに戻る"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:70
+msgid "Oops! That page can't be found."
+msgstr "お探しのページが見つかりません。"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:50
+msgid "<b class=\"is_on\">Page Not Found</b><b>Page Not Found</b><b>Page Not Found</b>"
+msgstr "<b class=\"is_on\">ページが見つかりません</b><b>ページが見つかりません</b><b>ページが見つかりません</b>"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:18
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:40
+msgid "404 Page"
+msgstr "404 ページ"
+
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:10
+msgid "Theme Prebuilt Pages"
+msgstr "テーマの事前構築済みページ"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1077
+msgid "Sticky Header"
+msgstr "上部固定のヘッダー"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1058
+msgid "Header Sticky"
+msgstr "ヘッダースティッキー"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1028
+msgid "Menu Side Docker"
+msgstr "メニューサイドドッカー"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:928
+msgid "Advertise Banner"
+msgstr "広告バナー"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:905
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1005
+msgid "Open in New Tab ?"
+msgstr "新しいタブで開く？"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:885
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:121
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:825
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:803
+msgid "Hide / Show Light & Dark Mode Switcher"
+msgstr "ライト＆ダークモードスイッチャーの非表示/表示"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:784
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:240
+msgid "Light/Dark Style"
+msgstr "ライト/ダークスタイル"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:719
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:854
+msgid "Subscribe"
+msgstr "購読"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:677
+msgid "My Account"
+msgstr "アカウント"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:637
+msgid "Site Search"
+msgstr "サイト検索"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:593
+msgid "WooCommerce Cart"
+msgstr "WooCommerce お買い物カゴ"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:571
+msgid "Hide/Show Home Icon?"
+msgstr "ホームアイコンを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:552
+msgid "Home Icon"
+msgstr "ホームアイコン"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:530
+msgid "Navigation Bar"
+msgstr "ナビゲーションバー"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:413
+msgid "Weather"
+msgstr "天気"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:391
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:390
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:360
+msgid "Theme Default"
+msgstr "テーマデフォルト"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:385
+msgid "Date Display Type"
+msgstr "日付表示タイプ"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:364
+msgid "Hide/Show Time?"
+msgstr "非表示/表示時間?"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:325
+msgid "Date & Time"
+msgstr "日付と時刻"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:303
+msgid "Posts Title to be shown on Header Text"
+msgstr "ヘッダーテキストに表示される投稿タイトル"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:302
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:158
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:390
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:166
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:133
+#: inc/widgets/widgets-init.php:399
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:272
+msgid "<i class=\"fas fa-fire-alt\"></i> Trending News:"
+msgstr "<i class=\"fas fa-fire-alt\"></i> トレンドニュース:"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:243
+msgid "Left Text"
+msgstr "左のテキスト"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:202
+msgid "Global Setting"
+msgstr "グローバル設定"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:181
+msgid "Top Header"
+msgstr "トップヘッダー"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:166
+msgid "Enable Hidden Title (h1 missing SEO issue)"
+msgstr "非表示のタイトルを有効にする（h1にSEOの問題がない）"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:125
+msgid "Site Tagline Size"
+msgstr "サイトキャッチフレーズのサイズ"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:84
+msgid "Site Title Size"
+msgstr "サイト タイトル サイズ"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:42
+msgid "Logo Size"
+msgstr "ロゴサイズ"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:23
+msgid "Site Identity"
+msgstr "サイト基本情報"
+
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:12
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:223
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:516
+msgid "Icons"
+msgstr "アイコン"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:200
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:453
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:493
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:179
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:221
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:262
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:431
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:472
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:612
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:654
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:696
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:738
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:844
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:947
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1045
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:1094
+msgid "Hide/Show ?"
+msgstr "非表示 / 表示"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:160
+msgid "Social"
+msgstr "ソーシャル"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:126
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:119
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:139
+msgid "Copyright"
+msgstr "著作権表示"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:100
+msgid "Footer Copright"
+msgstr "フッターの著作権"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:86
+msgid "Widgets Columns"
+msgstr "ウィジェットの列"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:66
+msgid "4 Column"
+msgstr "4カラム"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:60
+msgid "Select Widget Column"
+msgstr "ウィジェットのアイコンを選択"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:20
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:39
+msgid "Footer Widget"
+msgstr "フッターウィジェット"
+
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:10
+msgid "Footer Options"
+msgstr "フッター設定"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:364
+msgid "Select Page For After Section"
+msgstr "後のセクションのページを選択してください"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:343
+msgid "Select Page For Before Section"
+msgstr "「前のセクションのページを選択」"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:322
+msgid "Before / After Content"
+msgstr "コンテンツの前後"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:277
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1217
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:272
+msgid "Hide/Show Post Format Icon?"
+msgstr "投稿フォーマットアイコンを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:257
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:279
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:511
+msgid "Hide/Show Views?"
+msgstr "ビューを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:238
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:259
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:491
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1119
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:252
+msgid "Hide/Show Comment?"
+msgstr "コメントを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:219
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:344
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:239
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:471
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:720
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1099
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:213
+msgid "Hide/Show Date?"
+msgstr "日付を非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:199
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:219
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:451
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1079
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:193
+msgid "Hide/Show Author?"
+msgstr "著者を非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:179
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:199
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:431
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:700
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1059
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:173
+msgid "Hide/Show Category?"
+msgstr "カテゴリを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:159
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:179
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:411
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:680
+#: inc/customizer/customizer-settings/newsmunch-theme-customize-setting.php:1039
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:153
+msgid "Hide/Show Title?"
+msgstr "タイトルを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:138
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:159
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:167
+msgid "Posts to be shown on slider section"
+msgstr "スライダーセクションに表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:137
+msgid "Select Post Category"
+msgstr "投稿カテゴリーを選択"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:107
+msgid "Featured Story"
+msgstr "おすすめストーリー"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:98
+msgid "Featured Link Content"
+msgstr "注目のリンクコンテンツ"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:77
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:77
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:104
+msgid "Front & Post Page"
+msgstr "フロントページとポストページ"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:76
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:76
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:103
+msgid "Post Page"
+msgstr "投稿ページ"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:75
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:75
+#: inc/customizer/customizer-settings/newsmunch-top-tags-customize-setting.php:102
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:70
+msgid "Display Featured Link on"
+msgstr "特集リンクを表示"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:50
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:50
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:50
+msgid "Hide/Show?"
+msgstr "非表示/表示"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:31
+msgid "Featured Link Setting"
+msgstr "注目のリンクの設定"
+
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:9
+msgid "Featured Link Section"
+msgstr "注目のリンクセクション"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:21
+msgid "Deactivate"
+msgstr "停止"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:20
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:19
+msgid "Install and Activate"
+msgstr "インストールと有効化"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:18
+msgid "Recommended Plugin"
+msgstr "おすすめプラグイン"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:17
+msgid "Recommended Actions"
+msgstr "おすすめ設定"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer-plugin-notice/newsmunch-notify-plugin.php:12
+msgid "To take full advantage of all the features of this theme. please install and activate %s plugin then use the demo importer and install the Demo according to your need."
+msgstr "このテーマのすべての機能を最大限に活用します。 %s プラグインをインストールしてアクティブ化してから、デモ インポーターを使用して、必要に応じてデモをインストールしてください。"
+
+#: inc/customizer/customizer-plugin-notice/newsmunch-customizer-notify.php:112
+msgid "Activating"
+msgstr "アクティブ化中"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:941
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:974
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:936
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:966
+msgid "Remove Icon"
+msgstr "アイコンを削除"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:919
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:911
+#: inc/customizer/customizer-settings/newsmunch-footer-customize-setting.php:65
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:273
+#: inc/customizer/customizer-settings/newsmunch-typography-customize-setting.php:578
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:906
+msgid "Image type"
+msgstr "画像の形式"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:896
+msgid "Video"
+msgstr "ビデオ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:888
+msgid "Background Type"
+msgstr "背景タイプ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:876
+msgid "Center"
+msgstr "中心"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:872
+msgid "Right"
+msgstr "右寄せ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:868
+msgid "Left"
+msgstr "左寄せ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:864
+msgid "Slide Align"
+msgstr "スライドの整列"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:853
+msgid "Image 2"
+msgstr "画像 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:827
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:856
+msgid "Upload Image"
+msgstr "画像のアップロード"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:824
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:892
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:910
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:966
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:789
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:788
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意: 表示されていないアイコンがあります。すべてのアイコンのリストは %1$s で確認してください。"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:783
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:909
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:772
+msgid "Open link in new tab:"
+msgstr "新しいタブで開く"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:735
+msgid "Delete field"
+msgstr "フィールドを削除"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "Button Label Second"
+msgstr "ボタンラベル2番目"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:543
+msgid "Delete %s"
+msgstr "%s を削除"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:527
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:724
+msgid "Designation"
+msgstr "肩書き"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:519
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:715
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:509
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Color"
+msgstr "カラー"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:479
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:698
+msgid "Video Url"
+msgstr "動画 URL"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:465
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:667
+msgid "link 3"
+msgstr "リンク3"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:456
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "link"
+msgstr "リンク"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:447
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:685
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:933
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:955
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:758
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:985
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Button Text"
+msgstr "ボタンのテキスト"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Label second"
+msgstr "ボタンラベル2番目"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:419
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:643
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:865
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:101
+msgid "Button Label"
+msgstr "ボタンのラベル"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:412
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:636
+msgid "Description"
+msgstr "募集要項"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:404
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Subtitle 5"
+msgstr "サブタイトル 5"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:396
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:620
+msgid "Subtitle 4"
+msgstr "サブタイトル 4"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:388
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:612
+msgid "Subtitle 3"
+msgstr "サブタイトル 3"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:380
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Subtitle 2"
+msgstr "サブタイトル 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:372
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:596
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:80
+msgid "Subtitle"
+msgstr "サブタイトル"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:364
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:588
+#: inc/customizer/customizer-settings/newsmunch-featured-link-customize-setting.php:118
+#: inc/customizer/customizer-settings/newsmunch-header-customize-setting.php:283
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:60
+#: inc/customizer/customizer-settings/newsmunch-prebuilt-page-customize-setting.php:257
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:139
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:371
+#: inc/customizer/customizer-settings/newsmunch-slider-customize-setting.php:603
+#: inc/customizer/customizer-settings/newsmunch-you-missed-customize-setting.php:93
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:48
+msgid "Customizer Repeater"
+msgstr "カスタマイザーの繰り返し"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:43
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:50
+msgid "Import Demo"
+msgstr "デモをインポート"
+
+#: inc/admin/getting-started.php:44
+msgid "To take full advantage of all the features of this theme, Please click the <strong>Import Demo</strong> and Install and Activate the plugin then use the demo importer and <strong>install the Demo</strong> according to your need."
+msgstr "このテーマのすべての機能を最大限に活用するには、[<strong>デモのインポート</strong>] をクリックし、プラグインをインストールしてアクティブ化してから、デモ インポーターを使用して、必要に応じて<strong>デモをインストール</strong>してください。 。"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:40
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "ようこそ ! %1$s をお選びいただきありがとうございます !"
+
+#: inc/admin/getting-started.php:33
+msgid "Theme Screenshot"
+msgstr "テーマのスクリーンショット"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "内容をスキップ"
+
+#: functions.php:168
+msgid "The Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: functions.php:166
+msgid "Footer  "
+msgstr "フッター  "
+
+#: functions.php:152
+msgid "Menu Side Docker Widget Area"
+msgstr "メニューサイドのドッカーウィジェットエリア"
+
+#: functions.php:142
+msgid "Front Page Right Sidebar Section"
+msgstr "フロントページ右サイドバーセクション"
+
+#: functions.php:132
+msgid "Front page Content Section"
+msgstr "フロントページコンテンツ上セクション"
+
+#: functions.php:122
+msgid "Front Page Left Sidebar Section"
+msgstr "フロントページ左サイドバーセクション"
+
+#: functions.php:114
+msgid "The Primary Widget Area"
+msgstr "主要なウィジェットエリア"
+
+#: functions.php:112
+msgid "Sidebar Widget Area"
+msgstr "サイドバーウィジェットエリア"
+
+#: functions.php:103
+msgid "This Widget area for WooCommerce Widget"
+msgstr "WooCommerce のウィジェットエリア"
+
+#: functions.php:101
+msgid "WooCommerce Widget Area"
+msgstr "WooCommerce ウィジェットエリア"
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/themes/newsmunch-free/"
+msgstr "https://desertthemes.com/themes/newsmunch-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/"
+msgstr "https://desertthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "DesertThemes"
+msgstr "DesertThemes"
