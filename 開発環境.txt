@@ -3,3 +3,12 @@ docker local 環境
 WordPress サイト: http://localhost:8080
 phpMyAdmin: http://localhost:8081
 
+
+
+http://localhost:8080/wp-login.php
+
+ユーザー名
+nippontou-docker
+
+pass
+a0w9p1ipojneuksol

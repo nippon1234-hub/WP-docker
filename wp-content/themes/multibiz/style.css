@@ -1,0 +1,707 @@
+/*
+Theme Name: MultiBiz
+Author: Themes Daddy
+Author URI: https://themesdaddy.com/
+Theme URI: https://themesdaddy.com/themes/multibiz-free/
+Description: Lightning Fast Speed & Responsive Theme. MultiBiz is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. View the demo of MultiBiz Pro https://demo.themesdaddy.com/multibiz-pro/
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-background, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, theme-options, threaded-comments, rtl-language-support, translation-ready, full-width-template, custom-logo, blog, e-commerce, portfolio
+Version: 1.0.76
+Tested up to: 6.8
+Requires PHP: 5.4
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GNU General Public License v2 or later
+Text Domain: multibiz
+Slug: multibiz
+Template: flixita
+*/
+
+
+:root {
+    --bs-primary: #ffaa17;
+    --bs-primary-dark:#9a6200;
+    --bs-primary-light: #ffaa1769;
+    --bs-primary-shadow:rgb(0 123 255 / 0.5);
+    --bs-secondary:#222429;
+    --bs-secondary-dark: #060707; 
+}
+
+.multibiz-theme .main-navigation {
+    min-height: 84px;
+}
+
+.multibiz-theme .main-header {
+    background-color: var(--bs-secondary);
+}
+
+.multibiz-theme .main-header .main-navigation .logo {
+    min-width: 200px;
+    height: 100%;
+    padding: 5px 30px 5px 50px;
+    align-items: center;
+}
+
+@media (min-width: 992px) {
+	.multibiz-theme .above-header:before,
+	.multibiz-theme .above-header:after	{
+		display:none;
+	}
+	.multibiz-theme .main-header .container {
+		padding: 0;
+		max-width: 100%;
+	}
+	.multibiz-theme .main-header .navbar-area {
+		justify-content: space-between;
+		padding-right: 2rem;
+		padding-left: 3.2rem;
+	    background: var(--bs-white);
+	}
+	.multibiz-theme .main-header .main-header-info {
+		position: relative;
+	}
+
+	.multibiz-theme .main-header .main-header-info:before {
+		background-color: var(--bs-secondary);
+		clip-path: polygon(0 0, 0% 0%, 100% 100%, 0% 100%);
+		width: 50px;
+		height: 100%;
+		content: "";
+		position: absolute;
+		left: -1px;
+		top: 0;
+		z-index: 1;
+	}
+	
+	.multibiz-theme .main-header .main-header-info .navbar-area:after {
+		background-color: var(--bs-primary);
+		transform: skewX(30deg);
+		width: 8px;
+		height: 100%;
+		content: "";
+		position: absolute;
+		left: 7px;
+		top: 0;
+		z-index: 1;
+	}
+	
+	.multibiz-theme .main-header .main-header-info .above-header + .navbar-area:after{
+		transform: skewX(21deg);
+	}
+	
+	.multibiz-theme .above-header .contact-corn {
+		background: var(--bs-secondary);
+		color: var(--bs-white);
+	}
+	.multibiz-theme .main-header .contact-area, 
+	.multibiz-theme .main-header .contact-area a:not(:hover):not(:focus) {
+		color: var(--bs-secondary);
+	}
+}
+
+.multibiz-theme .widget_social_widget li a {
+    background: var(--bs-secondary);
+    color: var(--bs-white);
+}
+.multibiz-theme .widget_social_widget li a:hover i, 
+.multibiz-theme .widget_social_widget li a:focus i {
+    color: var(--bs-primary);
+    background-color: var(--bs-white);
+}
+
+.multibiz-theme .main-header .header-search-toggle:not(:hover):not(:focus),
+.multibiz-theme .header-cart, 
+.multibiz-theme .menu-right-list li.cart-wrapper .cart-icon-wrap span {
+    color: var(--bs-secondary);
+}	
+
+.multibiz-theme .menu-right-list button.header-cart:hover,
+.multibiz-theme .menu-right-list button.header-cart:focus {
+    background-color: var(--bs-secondary);
+}
+
+@media (max-width: 991px) {
+	.multibiz-theme .mbiz-mobile-header{
+		display:block !important;
+	}
+	.multibiz-theme .main-mobile-nav:not(.is-sticky-menu) .mobile-logo h4.site-title,
+    .multibiz-theme .main-mobile-nav:not(.is-sticky-menu) .mobile-logo p.site-description{
+        color: var(--bs-secondary);
+    }
+}
+.multibiz-theme .main-header-info .above-header {
+    border-bottom:none;
+	background: var(--bs-primary);
+}
+
+.multibiz-theme .main-header .above-header .container .row {
+    padding-right: 2rem;
+    padding-left: 2rem;
+}
+
+
+.multibiz-theme .main-navbar:not(.breadcrumb-menu) .main-menu > li > a, 
+.multibiz-theme .main-menu-right > ul > li {
+    line-height: 5.25rem;
+    min-height: 5.25rem;
+}
+
+.multibiz-theme .above-header .widget-right a:hover, 
+.multibiz-theme .above-header .widget-right a:focus {
+    color: var(--bs-white);
+}
+
+@media (min-width: 992px) and (max-width: 1199px){
+	.multibiz-theme .main-navigation-area .contact-icon {
+		width: 30px;
+		height: 30px;
+		font-size: 1.275rem;
+	}
+}
+
+.multibiz-theme .breadcrumb-sticky-menu, .multibiz-theme .is-sticky-menu {
+    background: var(--bs-secondary);
+}	
+
+.multibiz-theme .btn.btn-primary {
+    color: var(--bs-secondary);
+}
+
+.btn-style-two .btn.btn-primary {
+    border: none;
+	transition: 0s;
+	border-radius:0;
+}
+
+.btn-style-two .btn:hover,
+.btn-style-two .btn:focus {
+    color: #fff;
+}
+
+.btn-style-two .btn:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: var(--bs-secondary);
+    -webkit-transform-origin: right center;
+    -moz-transform-origin: right center;
+    -ms-transform-origin: right center;
+    transform-origin: right center;
+    -webkit-transform: scale(0, 1);
+    -moz-transform: scale(0, 1);
+    -ms-transform: scale(0, 1);
+    -o-transform: scale(0, 1);
+    transform: scale(0, 1);
+    transition: transform 500ms cubic-bezier(0.85, 0, 0.08, 1), -webkit-transform 500ms cubic-bezier(0.85, 0, 0.08, 1);
+    -webkit-transition-timing-function: cubic-bezier(0.85, 0, 0.08, 1);
+    transition-timing-function: cubic-bezier(0.85, 0, 0.08, 1);
+    z-index: -1;
+}
+
+.btn-style-two .btn:hover:before {
+    -webkit-transform-origin: left center;
+    -moz-transform-origin: left center;
+    -ms-transform-origin: left center;
+    transform-origin: left center;
+    -webkit-transform: scale(1, 1);
+    -moz-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -o-transform: scale(1, 1);
+    transform: scale(1, 1);
+}
+
+.multibiz-theme .main-content h4{
+    display: inline-block;
+    color: var(--bs-primary);
+    font-size: 16px;
+    font-weight: 600;
+    position: relative;
+	border: 0;
+    padding: 0;
+    padding-left: 55px;
+}	
+
+.multibiz-theme .main-content h4:before{
+	background-color: var(--bs-primary);
+    width: 50px;
+    height: 2px;
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+	opacity: 1;
+}
+
+.multibiz-theme .home-slider div.owl-nav button[class*=owl-]:after {
+    border-radius: 0;
+}
+
+.multibiz-theme .owl-theme div.owl-nav [class*=owl-] {
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+}
+
+.multibiz-theme .owl-theme .owl-nav button[class*=owl-]:hover {
+    width: 45px;
+}
+
+.multibiz-theme .service-section {
+    padding: 8.75rem 0;
+}
+
+.multibiz-theme .service-content {
+    padding: 30px;
+	z-index: 2;
+    position: relative;
+}
+
+.multibiz-theme .service-icon-img-wrap {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    background-color: #F2F2F8;
+    text-align: center;
+    margin-bottom: 15px;
+    margin:0px;
+    box-shadow: none;
+    border-radius:50px;
+	margin-left: auto;
+    margin-right: auto;
+	position: relative;
+    
+}
+.multibiz-theme .service-inner h3.service-title {
+    font-size: 22px;
+    margin: 15px 0px !important;
+}
+
+.multibiz-theme .service-excerpt p {
+    padding-top: 10px;
+	position: relative;
+}
+.multibiz-theme .service-icon-img-wrap:after{
+    border: 4px dashed var(--bs-white);
+}
+
+.multibiz-theme .service-section .service-box {
+    position: relative;
+}
+
+.multibiz-theme .service-section .service-img {
+    position: absolute;
+    content: "";
+    right: 0;
+    bottom: 0;
+    width: 80px;
+    height: 80px;
+    transition: .5s;
+    opacity: 0;
+    z-index: -1;
+}
+
+.multibiz-theme .service-section .service-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.multibiz-theme .service-section .service-inner:hover .service-img {
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    z-index: 0;
+}
+
+.multibiz-theme .service-inner:hover .service-title a, 
+.multibiz-theme .service-inner:hover .service-excerpt p, 
+.multibiz-theme .service-inner:hover .post-more a {
+    color: var(--bs-white);
+}
+
+
+.multibiz-theme .service-section .service-inner {
+    position: relative;
+}
+
+.multibiz-theme .service-inner::before {
+    content: '';
+    position: absolute;
+    height: 42%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000;
+    z-index: 99;
+    -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    opacity: 0;
+}
+
+.multibiz-theme .service-section .service-inner:hover:before {
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+    z-index: 1;
+}
+
+.multibiz-theme .info-section .contact-area {
+    text-align: center;
+}
+
+.multibiz-theme .info-section .contact-area .arrow {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    color: var(--bs-white);
+	background: var(--bs-primary);
+    font-size: 18px;
+    line-height: 46px;
+    font-weight: 600;
+    margin-top: 20px;
+    border-radius: 50px;
+    display: inline-block;
+    text-decoration: none;
+    border: 2px solid var(--bs-white);
+    transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+	text-align: center;
+}
+
+.multibiz-theme .info-section .contact-area .arrow:hover, 
+.multibiz-theme .info-section .contact-area .arrow:focus {
+    color: var(--bs-primary);
+    background-color: var(--bs-white);
+    transform: rotate(360deg);
+}
+
+.info-section .feature-box-icon i, .info-section .feature-box-icon img {
+    font-size: 60px;
+    background-color: transparent;
+    color: var(--bs-secondary);
+}
+
+.multibiz-theme .info-section .widget-contact:hover .feature-box-icon i {
+    text-shadow: 70px 230px 0 rgb(255 255 255 / 0.25);
+	background-color: var(--bs-transparent);
+}
+
+.multibiz-theme .info-section .widget-contact::before {
+    background: linear-gradient(to top, var(--bs-primary) 100%,transparent);
+}
+
+.multibiz-theme .info-section .widget-contact:hover .feature-box-inner {
+    color: var(--bs-secondary);
+}
+
+.multibiz-theme .info-section .widget-contact:hover .arrow {
+    background: var(--bs-secondary);
+}	
+
+
+@media (max-width: 767px) {
+	.multibiz-theme .info-section .widget-contact:hover .feature-box-icon i {
+		text-shadow: 140px 170px 0 rgb(255 255 255 / 0.25);
+	}
+}
+
+@media only screen and (max-width: 1045px) and (min-width: 768px) {
+	.multibiz-theme .info-section .widget-contact:hover .feature-box-icon i {
+		text-shadow: 80px 200px 0 rgb(255 255 255 / 0.25);
+	}
+}
+
+@media (min-width: 1200px) {
+	.multibiz-theme .info-section .widget-contact{
+		min-height: 360px;
+	}
+}
+
+.author-details .btn {
+    position: relative;
+}
+
+.wp-block-verse {
+	padding: 5px 0;
+}
+
+.sidebar h2.wp-block-heading {
+    position: relative;
+    margin-bottom: 0;
+    padding: 16px 18px;
+    line-height: 1.2;
+    text-align: center;
+    color: var(--bs-white);
+    overflow: hidden;
+    font-size: 22px;
+    font-weight: 500;
+    background-color: var(--bs-secondary);
+    border-left: 4px solid var(--bs-primary);
+    border-right: 4px solid var(--bs-primary);
+}
+
+.footer-main .widget .wp-block-heading {
+    color: var(--bs-white);
+    margin-bottom: 1.375rem;
+    padding-bottom: 15px;
+    position: relative;
+    font-size: 1.25rem;
+}
+
+.footer-main .widget .wp-block-heading:before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: -40px;
+    margin: auto;
+    width: 35px;
+    height: 2px;
+    background-color: var(--bs-primary);
+}
+
+.footer-main .widget .wp-block-heading::first-letter {
+    color: var(--bs-primary);
+}
+.footer-main .textwidget address a {
+    text-decoration: none;
+}
+
+.post-date:focus-within:before {
+    background: var(--bs-secondary) !important;
+}
+
+.post-details-outer .post-title-head {
+    margin-top: 2.5rem;
+}
+
+.blog-inner .bottom-meta .post-author a:focus {
+    color: var(--bs-primary);
+}
+
+.post-comment .comments-count:focus{
+	color: var(--bs-primary);
+}
+
+.footer-main button.wp-block-search__button.wp-element-button:hover,
+.footer-main button.wp-block-search__button.wp-element-button:focus{
+    border: 2px solid var(--bs-primary);
+}
+
+.wp-block-calendar thead th, 
+.wp-block-calendar td {
+    text-align: center;
+}
+
+.info-section {
+    z-index: 0;
+}
+
+.service-section{
+    z-index: 0;
+}
+
+.wp-block-calendar table{
+	margin: 0;
+	text-align: center;
+}
+
+.woocommerce span.onsale {
+    z-index: 1;
+}
+
+.shopping-cart .cart-items .item-name {
+    font-size: 18px;
+    line-height: 1.2;
+}
+.shopping-cart .shopping-cart-items a.remove {
+    transform: translateY(10px);
+}
+
+.woocommerce div.product form.cart .variations th {
+    background: inherit;
+    color: inherit;
+}
+
+.woocommerce div.product form.cart .button {
+    background: var(--bs-primary);
+}
+
+.woocommerce div.product form.cart .button:hover, 
+.woocommerce div.product form.cart .button:focus {
+    background: var(--bs-secondary);
+}
+
+.wp-block-latest-comments {
+    padding: 0;
+}
+
+a.wp-block-latest-posts__post-title {
+    font-weight: 700;
+    text-decoration: none;
+    color: var(--bs-secondary);
+}
+
+.woocommerce table.shop_attributes tr:nth-child(even) th {
+    color: var(--bs-secondary);
+}
+
+.single-product .product .product_meta > span a {
+    text-decoration: none;
+}
+
+.woocommerce table.shop_attributes td {
+    padding: 0 1rem;
+}
+
+.woocommerce-Reviews .comment-form {
+    display: block;
+}
+
+.woocommerce table.shop_table td a {
+    text-decoration: none;
+}
+
+.sidebar .widget .wp-block-latest-comments {
+    padding: 1.8rem;
+}
+
+table.wc-block-cart-items .wc-block-cart-items__row .wc-block-components-product-name {
+    text-decoration: none;
+}
+
+.sidebar .wp-block-file {
+    padding: 1.8rem;
+}
+
+.sidebar .wp-block-code {
+    padding: 1.8rem;
+}
+
+.wp-block-file a {
+    text-decoration: none;
+}
+
+.wp-block-file.has-background {
+    padding: 0.5rem;
+} 
+
+.wp-block-details.has-background {
+    padding: 0.5rem;
+}
+
+.wp-block-image .alignleft figcaption {
+    text-align: left;
+}
+.wp-block-image .alignright figcaption {
+    text-align: right;
+}
+
+.wp-block-button a {
+    text-decoration: none;
+}
+
+.wp-block-archives li {
+    list-style: none;
+}
+
+.wp-block-archives li a {
+    text-decoration: none;
+}
+
+.wp-block-archives {
+    padding-left: 0;
+}
+
+.wp-block-categories {
+    padding-left: 0;
+}
+
+.wp-block-categories li {
+    list-style: none;
+}
+
+.wp-block-categories li a {
+    text-decoration: none;
+}
+
+.wp-block-latest-comments a {
+    text-decoration: none;
+}
+
+.wp-block-latest-comments.has-background {
+    padding: 10px;
+}
+
+a.wp-block-latest-posts__post-title:hover, 
+a.wp-block-latest-posts__post-title:focus {
+    color: var(--bs-primary);
+}
+
+.wp-block-latest-posts.wp-block-latest-posts__list.has-background li {
+    padding: 1rem;
+}
+
+.wp-block-categories li a {
+    color: var(--bs-secondary);
+}
+
+.wp-block-categories li a:hover, 
+.wp-block-categories li a:focus {
+    color: var(--bs-primary);
+}
+
+.footer-main .wp-block-calendar td {
+    color: var(--bs-secondary);
+}
+
+.wp-block-loginout.has-background {
+    padding: 1rem;
+}
+
+.wp-block-loginout a {
+    text-decoration: none;
+}
+
+.wp-block-post-author.has-background {
+    padding: 1rem;
+}
+
+.wp-block-post-author img {
+    border-radius: 100%;
+}
+
+.wp-block-site-title a {
+    text-decoration: none;
+}
+
+.wp-block-page-list {
+	padding: 0;
+}
+
+.wp-block-image .alignleft figcaption {
+	text-align: left;
+}
+
+.wp-block-image figcaption {
+	text-align: center;
+}
+
+.wp-block-embed figcaption {
+    text-align: center;
+}
+
+.wp-block-site-title.has-background {
+    padding: 1rem;
+}
+
+.wp-block-site-tagline.has-background {
+    padding: 1rem;
+}
+
+.wp-block-post-title a:hover, 
+.wp-block-post-title a:focus {
+    color: var(--bs-primary);
+}

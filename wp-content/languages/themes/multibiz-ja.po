@@ -1,0 +1,90 @@
+# Translation of Themes - MultiBiz in Japanese
+# This file is distributed under the same license as the Themes - MultiBiz package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-24 13:53:18+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - MultiBiz\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. MultiBiz is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme. View the demo of MultiBiz Pro https://demo.themesdaddy.com/multibiz-pro/"
+msgstr "超高速スピードと応答性の高いテーマ。 MultiBiz は、あらゆる種類の ウェブサイトを作成できる、応答性に優れ、完全にカスタマイズ可能なテーマです。高度な管理パネルを使用すると、技術的な知識がなくてもカスタマイズできます。このテーマは軽量で、ブログ、ポートフォリオ、俳優業や撮影業界、トレンドニュース、新聞、メガマガジン、ファッション、ダークテーマ、ペットケア、野生動物、木造建築、配管など、ほぼあらゆる種類の ウェブサイトを作成できます。請負業者、絵画エステート、インテリア デザイン、部屋の家具、家の装飾、緑の花の性質、建設、企業、複数の代理店、ビジネス プロモーション、ダーク バリエーション、産業、美容 & スパ サロン、写真、ジム、フィットネス、健康、医療、スタートアップ、企業代理店、法律事務所、旅行、NGO、慈善団体、ヨガ、子供の教育、研修機関、大学ポータル、レストラン、メタショップ、クイックマガジン、投資信託、金融、会計、コンサルティング、旅行代理店のウェブサイト。テーマは、Elementor Page Builder、Slider、Carousal、Beaver Builder、Brizy、Visual Composer、Divi、SiteOrigin、Gutenberg、Block-Enabled、WooCommerce、WPML、Yoast SEO、Shortcode、Jetpack、Contact Form 7 などの人気の WordPress プラグインと完全に互換性があります。 WordPress、bbPress、デモ インポーター、WPForms などの Mailchimp。あなたの WordPress ウェブサイトがこのテーマで失望することは決してありません。 MultiBiz Pro のデモを見る https://demo.themesdaddy.com/multibiz-pro/"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "MultiBiz"
+msgstr "MultiBiz"
+
+#: header.php:138
+msgid "Header Close Menu"
+msgstr "ヘッダー メニューを閉じる"
+
+#: header.php:129
+msgid "Menu Collaped"
+msgstr "メニューの折りたたみ"
+
+#: header.php:91
+msgid "Search Popup Close"
+msgstr "検索ポップアップを閉じる"
+
+#: header.php:88
+msgid "Type To Search"
+msgstr "入力して検索"
+
+#: header.php:87
+msgid "Site Search"
+msgstr "サイト検索"
+
+#: header.php:84
+msgid "Search Popup"
+msgstr "検索ポップアップ"
+
+#: header.php:68
+msgid "0"
+msgstr "0"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "コンテンツにスキップ"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+msgid "Share a Good Review"
+msgstr "良いレビューを共有する"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Upgrade to Pro"
+msgstr "プロ仕様にアップグレードする"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Premium Demo"
+msgstr "プレミアムデモ"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:14
+msgid "Need Support ?"
+msgstr "サポートが必要ですか?"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/multibiz-free/"
+msgstr "https://themesdaddy.com/themes/multibiz-free/"

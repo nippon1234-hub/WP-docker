@@ -1,0 +1,1610 @@
+# Translation of Themes - NewsMash in Japanese
+# This file is distributed under the same license as the Themes - NewsMash package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-07-28 09:49:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - NewsMash\n"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "NewsMash"
+msgstr "NewsMash"
+
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:119
+msgid "Top Tags Styles"
+msgstr "人気のタグのスタイル"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1361
+msgid "Background Styles"
+msgstr "背景のスタイル"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1328
+msgid "Color Styles"
+msgstr "色のスタイル"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1294
+msgid "Pagination Styles"
+msgstr "ページ送りスタイル"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:112
+msgid "Load More Button Label"
+msgstr "さらに読み込むボタンのラベル"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:102
+msgid "Load More"
+msgstr "もっと読み込む"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:293
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:598
+msgid "Typography Features"
+msgstr "タイポグラフィーの特徴"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:577
+msgid "Slider Styles"
+msgstr "スライダーのスタイル"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:203
+msgid "Blog Styles"
+msgstr "ブログのスタイル"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:594
+msgid "Icons"
+msgstr "アイコン"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:118
+msgid "Featured Types"
+msgstr "注目のタイプ"
+
+#: inc/customizer/controls/code/upgrade/class-customize.php:73
+msgid "Upgrade to Newsmash Pro"
+msgstr "Newsmash Pro にアップグレードする"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:50
+msgid "Import Demo"
+msgstr "デモをインポート"
+
+#: inc/admin/getting-started.php:44
+msgid "To take full advantage of all the features of this theme, Please click the <strong>Import Demo</strong> and Install and Activate the plugin then use the demo importer and <strong>install the Demo</strong> according to your need."
+msgstr "このテーマのすべての機能を最大限に活用するには、[<strong>デモのインポート</strong>] をクリックし、プラグインをインストールしてアクティブ化してから、デモ インポーターを使用して、必要に応じて<strong>デモをインストール</strong>してください。 。"
+
+#: inc/admin/getting-started.php:33
+msgid "Theme Screenshot"
+msgstr "テーマのスクリーンショット"
+
+#. translators: %s: plugin name
+#: inc/customizer/customizer-plugin-notice/newsmash-notify-plugin.php:12
+msgid "To take full advantage of all the features of this theme. please install and activate %s plugin then use the demo importer and install the Demo according to your need."
+msgstr "このテーマのすべての機能を最大限に活用するには、%s プラグインをインストールして有効化してください。その後、デモインポーターを使用して、必要に応じてデモをインストールします。"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: inc/admin/getting-started.php:40
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "ようこそ ! %1$s をお選びいただきありがとうございます !"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:24
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "%s 続きを読む <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-none.php:39
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:32
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/content-author.php:25
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "まだ経歴情報を入力していません。 %1$s今すぐプロフィールを編集してください%2$s。"
+
+#: single.php:52 template-parts/content-page-classic.php:45
+#: template-parts/content-page-list.php:60
+#: template-parts/content-page-minimal.php:31
+#: template-parts/content-page.php:45 template-parts/section-slider.php:51
+msgid "Comments"
+msgstr "コメント"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "ビルダーページ"
+
+#. Template Name of the theme
+msgid "Fullwidth Page"
+msgstr "全幅ページ"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "フロントページ"
+
+#: inc/widgets/widgets-init.php:208
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+#: inc/widgets/widgets-init.php:197
+msgid "Choose Image"
+msgstr "画像の選択"
+
+#: inc/widgets/widgets-init.php:196
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: inc/widgets/widgets-init.php:195
+msgid "Upload"
+msgstr "アップロードする"
+
+#: inc/widgets/posts-slider.php:121
+msgid "Select category"
+msgstr "カテゴリーを選択"
+
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:54
+msgid "Search results for"
+msgstr "検索結果:"
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:47
+msgid "404"
+msgstr "404"
+
+#. translators: %1$s: 404
+#: inc/template-tags.php:47
+msgid "%1$s "
+msgstr "%1$s "
+
+#. translators: %1$s %2$s: WooCommerce
+#: inc/template-tags.php:37
+msgid "Shop"
+msgstr "ショップ"
+
+#. translators: %1$s %2$s: tag
+#: inc/template-tags.php:34
+msgid "Tag"
+msgstr "タグ"
+
+#. translators: %1$s %2$s: category
+#: inc/template-tags.php:31
+msgid "Category"
+msgstr "カテゴリー"
+
+#. translators: %1$s %2$s: author
+#: inc/template-tags.php:28
+msgid "All posts by"
+msgstr "のすべての投稿"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#: inc/template-tags.php:19 inc/template-tags.php:22 inc/template-tags.php:25
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. translators: %1$s %2$s: date
+#. translators: %1$s %2$s: month
+#. translators: %1$s %2$s: year
+#. translators: %1$s %2$s: author
+#. translators: %1$s %2$s: category
+#. translators: %1$s %2$s: tag
+#. translators: %1$s %2$s: WooCommerce
+#. translators: %1$s %2$s: search
+#: inc/template-tags.php:19 inc/template-tags.php:22 inc/template-tags.php:25
+#: inc/template-tags.php:28 inc/template-tags.php:31 inc/template-tags.php:34
+#: inc/template-tags.php:37 inc/template-tags.php:54
+msgid "%1$s %2$s"
+msgstr "%2$s%1$s"
+
+#: inc/extras.php:728
+msgid "fab fa-tiktok"
+msgstr "fab fa-tiktok"
+
+#: inc/extras.php:723
+msgid "fab fa-twitter"
+msgstr "fab fa-twitter"
+
+#: inc/extras.php:718
+msgid "fab fa-instagram"
+msgstr "fab fa-instagram"
+
+#: inc/extras.php:714 inc/extras.php:719 inc/extras.php:724 inc/extras.php:729
+msgid "#"
+msgstr "#"
+
+#: inc/extras.php:713
+msgid "fab fa-facebook-f"
+msgstr "fab fa-facebook-f"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/extras.php:661
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:246
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:552
+msgid "Lowercase"
+msgstr "小文字"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:245
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:551
+msgid "Uppercase"
+msgstr "大文字"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:239
+msgid "Transform"
+msgstr "変換"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:223
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:529
+msgid "oblique"
+msgstr "斜体"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:222
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:528
+msgid "Italic"
+msgstr "イタリック"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:221
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:527
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:220
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:269
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:496
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:526
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:574
+msgid "Inherit"
+msgstr "継承する"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:215
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:522
+msgid "Font Style"
+msgstr "フォントスタイル"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:198
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:505
+msgid "Black: 900"
+msgstr "Black: 900"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:197
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:504
+msgid "Extra Bold: 800"
+msgstr "Extra Bold: 800"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:196
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:503
+msgid "Bold: 700"
+msgstr "Bold: 700"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:195
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:502
+msgid "Semibold: 600"
+msgstr "Semibold: 600"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:194
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:501
+msgid "Medium: 500"
+msgstr "Medium: 500"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:193
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:500
+msgid "Normal: 400"
+msgstr "Normal: 400"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:192
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:499
+msgid "Book: 300"
+msgstr "Book: 300"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1249
+msgid "Post Pagination"
+msgstr "投稿のページ送り"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1227
+msgid "Classic"
+msgstr "クラシック"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1226
+msgid "Minimal"
+msgstr "最小"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1225
+msgid "Grid"
+msgstr "グリッド"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1224
+msgid "List"
+msgstr "リスト"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1219
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1268
+msgid "Select Type"
+msgstr "種類を選択"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1200
+msgid "Archive Layout"
+msgstr "アーカイブレイアウト"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1177
+msgid "Read More Label"
+msgstr "続きを読むラベル"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1167
+msgid "Continue reading"
+msgstr "続きを読む"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1158
+msgid "Style 2"
+msgstr "スタイル2"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1157
+msgid "Style 1"
+msgstr "スタイル1"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1152
+msgid "Select Read More Type"
+msgstr "続きを読むタイプを選択します"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:598
+msgid "Blog Page Sidebar Option"
+msgstr "ブログページのサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:518
+msgid "Default Page Sidebar Option"
+msgstr "デフォルトのページサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:499
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:525
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:551
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:578
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:605
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:631
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:658
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:498
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:524
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:550
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:577
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:604
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:630
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:657
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:497
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:523
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:549
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:576
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:603
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:629
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:656
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:473
+msgid "Sidebar Layout"
+msgstr "サイドバーレイアウト"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:454
+msgid "Sidebar Options"
+msgstr "サイドバー設定"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:418
+msgid "Content Font Size"
+msgstr "コンテンツのフォントサイズ"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:380
+msgid "Title Font Size"
+msgstr "タイトル文字サイズ"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:361
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:768
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:8
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:342
+msgid "NavXT Plugin"
+msgstr "NavXT プラグイン"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:341
+msgid "Rank Math Plugin"
+msgstr "ランク計算プラグイン"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:173
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:168
+msgid "Search Result Page will Show ?"
+msgstr "検索結果ページには「?」が表示されます。"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:149
+msgid "Search Result"
+msgstr "検索結果"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:116
+msgid "Container Width"
+msgstr "コンテナの幅"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:96
+msgid "Site Container"
+msgstr "サイトコンテナ"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:71
+msgid "Hide / Show Preloader"
+msgstr "プリローダーの表示/非表示"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:51
+msgid "Site Preloader"
+msgstr "ページプリローダー"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:27
+msgid "General Options"
+msgstr "基本設定"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:16
+msgid "Header Image"
+msgstr "ヘッダー画像"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:7
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:557
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1340
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:540
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:508
+msgid "Number of Post in Tab"
+msgstr "表示する投稿の数"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:409
+msgid "Posts to be shown on Right"
+msgstr "右に表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:408
+msgid "Select Category For Right"
+msgstr "右のカテゴリを選択してください"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:38
+msgid "Slider Setting"
+msgstr "スライダー設定"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:16
+msgid "Slider Section"
+msgstr "スライダーセクション"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:10
+msgid "Theme Frontpage"
+msgstr "テーマのフロントページ"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:247
+msgid "Related Posts"
+msgstr "関連記事"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:238
+msgid "Hide/Show Related Post?"
+msgstr "関連記事を表示"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:218
+msgid "Related Post"
+msgstr "関連投稿"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:135
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:157
+msgid "Single Page"
+msgstr "個別投稿ページ"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:90
+msgid "Go Back Home"
+msgstr "トップへ戻る"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:70
+msgid "Oops, the page you are looking for does not exist."
+msgstr "お探しのページは存在しません。"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:50
+msgid "404 Not Found"
+msgstr "404: 見つかりませんでした"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:19
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:41
+msgid "404 Page"
+msgstr "404 ページ"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:10
+msgid "Theme Prebuilt Pages"
+msgstr "テーマの事前構築済みページ"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:252
+msgid "Number of Other Story"
+msgstr "その他の話数"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:73
+msgid "Latest Post Content"
+msgstr "最新の投稿内容"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:40
+msgid "Latest Post"
+msgstr "最新の投稿"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:31
+msgid "Latest Post Head"
+msgstr "最新の投稿の責任者"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:9
+msgid "Latest Post Section"
+msgstr "最新投稿セクション"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:773
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:742
+msgid "Get Started"
+msgstr "はじめてみよう"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:713
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:674
+msgid "Site Search"
+msgstr "Site Search"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:630
+msgid "WooCommerce Cart"
+msgstr "WooCommerce お買い物カゴ"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:608
+msgid "Navigation Bar"
+msgstr "ナビゲーションバー"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:478
+msgid "Chicago 12, Melborne City, USA"
+msgstr "Chicago 12、メルボルン市、米国"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:432
+msgid "Address"
+msgstr "アドレス"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:23
+msgid "Site Identity"
+msgstr "サイト基本情報"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:12
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:246
+msgid "Scroller text"
+msgstr "スクローラーテキスト"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:236
+msgid "Back to Top"
+msgstr "トップに戻る"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:225
+msgid "Hide / Show Scroller"
+msgstr "スクローラーを非表示 / 表示"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:206
+msgid "Top Scroller"
+msgstr "トップスクローラー"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:181
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:531
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:571
+msgid "Social Icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:141
+msgid "Social"
+msgstr "Social"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:107
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:100
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:120
+msgid "Copyright"
+msgstr "著作権表示"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:81
+msgid "Footer Copright"
+msgstr "フッターの著作権"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:69
+msgid "4 Column"
+msgstr "4カラム"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:68
+msgid "3 Column"
+msgstr "3カラム"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:67
+msgid "2 Column"
+msgstr "2カラム"
+
+#: inc/customizer/customizer-plugin-notice/newsmash-notify-plugin.php:18
+msgid "Recommended Plugin"
+msgstr "おすすめプラグイン"
+
+#: inc/customizer/customizer-plugin-notice/newsmash-notify-plugin.php:17
+msgid "Recommended Actions"
+msgstr "おすすめ設定"
+
+#: inc/customizer/customizer-plugin-notice/newsmash-customizer-notify.php:112
+msgid "Activating"
+msgstr "有効化"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:160
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:220
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:261
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:328
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:410
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:450
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:550
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:649
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:691
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:732
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:842
+msgid "Hide/Show ?"
+msgstr "非表示 / 表示"
+
+#: inc/customizer/controls/code/editor/customizer-page-editor.php:24
+msgid "Save and close"
+msgstr "保存して閉じる"
+
+#: inc/customizer/controls/code/editor/class/class-newsmash-page-editor.php:76
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: inc/customizer/controls/code/editor/class/class-newsmash-page-editor.php:60
+msgid "About background"
+msgstr "「私たちについて」セクションの背景"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:941
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:974
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:936
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:966
+msgid "Remove Icon"
+msgstr "アイコンを削除"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:919
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:911
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:65
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:273
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:578
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:906
+msgid "Image type"
+msgstr "画像の形式"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:896
+msgid "Video"
+msgstr "ビデオ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:888
+msgid "Background Type"
+msgstr "背景タイプ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:876
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:872
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:83
+msgid "Right"
+msgstr "右寄せ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:465
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:667
+msgid "link 3"
+msgstr "リンク3"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:456
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:659
+msgid "link"
+msgstr "リンク"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:447
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:685
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:933
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:955
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:508
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:122
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:436
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:675
+msgid "Button Text"
+msgstr "ボタンのテキスト"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:427
+msgid "Button Label second"
+msgstr "ボタンラベル2番目"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:419
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:643
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:753
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:101
+msgid "Button Label"
+msgstr "ボタンのラベル"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:412
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:636
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:80
+msgid "Description"
+msgstr "説明"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:404
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:628
+msgid "Subtitle 5"
+msgstr "サブタイトル 5"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:396
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:620
+msgid "Subtitle 4"
+msgstr "サブタイトル 4"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:388
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:612
+msgid "Subtitle 3"
+msgstr "サブタイトル 3"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:380
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Subtitle 2"
+msgstr "サブタイトル 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:372
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "Subtitle"
+msgstr "字幕"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:364
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:588
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:349
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:489
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:51
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:92
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:60
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:257
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:98
+#: inc/widgets/posts-slider.php:119
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:48
+msgid "Customizer Repeater"
+msgstr "Customizer Repeater"
+
+#: woocommerce/content-product.php:32
+msgid "Sale"
+msgstr "販売"
+
+#: woocommerce/cart/mini-cart.php:119
+msgid "Remove this item"
+msgstr "この項目を削除"
+
+#: woocommerce/cart/mini-cart.php:74 woocommerce/cart/mini-cart.php:159
+msgid "No products in the cart."
+msgstr "カートに商品はありません。"
+
+#: woocommerce/cart/mini-cart.php:68 woocommerce/cart/mini-cart.php:154
+msgid "Checkout"
+msgstr "購入手続き"
+
+#: woocommerce/cart/mini-cart.php:68 woocommerce/cart/mini-cart.php:154
+msgid "View Cart"
+msgstr "お買い物カゴを表示"
+
+#: woocommerce/cart/mini-cart.php:66 woocommerce/cart/mini-cart.php:152
+msgid "Subtotal:"
+msgstr "小計:"
+
+#: template-parts/site-header.php:41 template-parts/site-header.php:53
+msgid "is--sticky"
+msgstr "is--sticky"
+
+#: template-parts/section-slider.php:43
+msgid "By"
+msgstr "投稿者"
+
+#: template-parts/section-slider.php:22
+msgid "12"
+msgstr "12"
+
+#: template-parts/section-slider.php:22
+msgid "8"
+msgstr "8"
+
+#: template-parts/content.php:29
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: inc/extras.php:536 single.php:67
+msgid "Read More"
+msgstr "「続きを読む」"
+
+#: inc/extras.php:265 inc/extras.php:318
+msgid "Article Label"
+msgstr "記事のラベル"
+
+#: inc/extras.php:261 inc/extras.php:311
+msgid "Remove Image"
+msgstr "画像の削除"
+
+#: inc/extras.php:260 inc/extras.php:310
+msgid "Add Image"
+msgstr "画像を追加"
+
+#: inc/extras.php:211
+msgid "View all posts in %s"
+msgstr "%s の投稿をすべて表示"
+
+#: inc/extras.php:107
+msgid "<a href=\"#\">Desert Themes</a>"
+msgstr "<a href=\"#\">Desert Themes</a>"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:546
+msgid "Text Transform"
+msgstr "文字の変形"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:492
+msgid "Font Weight"
+msgstr "フォントの太さ"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:369
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:307
+msgid "Headings (H1-H6) Typography"
+msgstr "見出し (H1 ～ H6) タイポグラフィ"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:272
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:577
+msgid "Line Through"
+msgstr "取り消し線"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:271
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:576
+msgid "Overline"
+msgstr "上線"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:270
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:575
+msgid "Underline"
+msgstr "アンダーライン"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:264
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:570
+msgid "Text Decoration"
+msgstr "テキスト装飾"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:247
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:553
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:993
+msgid "Hide/Show Tag?"
+msgstr "タグを非表示/表示しますか?"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:953
+msgid "Read More Button Text"
+msgstr "「続きを読む」ボタンのテキスト"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:942
+msgid "Read more"
+msgstr "もっと読む"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:933
+msgid "Enable Read More Button"
+msgstr "続きを読むボタンを有効にする"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:912
+msgid "Excerpt More"
+msgstr "さらに抜粋"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:883
+msgid "Excerpt Length"
+msgstr "概要の長さ"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:863
+msgid "Enable Excerpt"
+msgstr "抜粋を有効化する"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:842
+msgid "Post Excerpt"
+msgstr "投稿抜粋"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:820
+msgid "Blog Options"
+msgstr "ブログ設定"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:787
+msgid "Widget Title Font Size"
+msgstr "ウィジェットタイトルのフォントサイズ"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:730
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:750
+msgid "Sticky Sidebar"
+msgstr "固定サイドバー"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:700
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:678
+msgid "Options"
+msgstr "設定"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:390
+msgid "Posts to be shown on Left"
+msgstr "左側に表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:389
+msgid "Select Category For Left"
+msgstr "左側のカテゴリを選択してください"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:350
+msgid "Slider Content Right"
+msgstr "スライダーコンテンツ右"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:317
+msgid "Number of Slides"
+msgstr "スライドの枚数"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:178
+msgid "Posts to be shown on slider section"
+msgstr "スライダーセクションに表示される投稿"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:158
+msgid "Extra Large"
+msgstr "特大"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:157
+msgid "Medium"
+msgstr "Medium"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:156
+msgid "Large"
+msgstr "大きい"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:151
+msgid "Slider Size"
+msgstr "スライダーのサイズ"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:125
+msgid "Display Slider on"
+msgstr "スライダーを表示"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:106
+msgid "Slider Content Left"
+msgstr "スライダーコンテンツ左"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:77
+msgid "Slider Position"
+msgstr "スライダーの位置"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:391
+msgid "My Account"
+msgstr "私のアカウント"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:369
+msgid "Posts Title to be shown on Header Text"
+msgstr "ヘッダーテキストに表示される投稿タイトル"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:368
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:91
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:132
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:177
+#: inc/widgets/popular-post.php:119 inc/widgets/widgets-init.php:399
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:338
+msgid "<i class=\"fas fa-fire-alt\"></i> Trending News:"
+msgstr "<i class=\"fas fa-fire-alt\"></i> トレンドニュース:"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:309
+msgid "Left Text"
+msgstr "左のテキスト"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:288
+msgid "WordPress"
+msgstr "WordPress"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:287
+msgid "Theme Default"
+msgstr "テーマデフォルト"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:282
+msgid "Date Display Type"
+msgstr "日付表示タイプ"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:242
+msgid "Date"
+msgstr "日付"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:201
+msgid "Global Setting"
+msgstr "グローバル設定"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:180
+msgid "Top Header"
+msgstr "トップヘッダー"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:125
+msgid "Site Tagline Size"
+msgstr "サイトキャッチフレーズのサイズ"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:42
+msgid "Logo Size"
+msgstr "ロゴサイズ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:868
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:82
+msgid "Left"
+msgstr "左寄せ"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:864
+msgid "Slide Align"
+msgstr "スライドの整列"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:853
+msgid "Image 2"
+msgstr "画像 2"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:827
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:856
+msgid "Upload Image"
+msgstr "画像のアップロード"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:824
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:892
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:910
+#: inc/extras.php:256 inc/extras.php:299
+msgid "Image"
+msgstr "画像"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:789
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:788
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注意: 表示されていないアイコンがあります。すべてのアイコンのリストは %1$s で確認してください。"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:783
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:909
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:468
+msgid "Icon"
+msgstr "Icona"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:772
+msgid "Open link in new tab:"
+msgstr "新しいタブで開く"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:735
+msgid "Delete field"
+msgstr "フィールドを削除"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:651
+msgid "Button Label Second"
+msgstr "ボタンラベル2番目"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:543
+msgid "Delete %s"
+msgstr "%sを削除"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:527
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:724
+msgid "Designation"
+msgstr "肩書き"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:519
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:715
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:509
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:580
+msgid "Color"
+msgstr "カラー"
+
+#: inc/widgets/posts-slider.php:21
+msgid "Displays posts slider from selected category."
+msgstr "選択したカテゴリーから商品スライダーを表示します。"
+
+#: inc/widgets/popular-post.php:121 inc/widgets/posts-slider.php:123
+msgid "Number of Post to Show"
+msgstr "表示する投稿の数"
+
+#: inc/widgets/popular-post.php:24
+msgid "DT: Popular Posts"
+msgstr "DT: 人気の投稿"
+
+#: inc/widgets/popular-post.php:20
+msgid "Displays posts from selected category."
+msgstr "選択したカテゴリの投稿を表示します。"
+
+#: inc/template-tags.php:798
+msgid "recent-tab"
+msgstr "recent-tab"
+
+#: inc/template-tags.php:765
+msgid "popular-tab"
+msgstr "popular-tab"
+
+#: inc/template-tags.php:760
+msgid "Recent"
+msgstr "最近使用した書式"
+
+#: inc/template-tags.php:754
+msgid "Popular"
+msgstr "人気"
+
+#: inc/template-tags.php:614 inc/template-tags.php:647
+msgid "0"
+msgstr "0"
+
+#: inc/template-tags.php:577
+msgid "search Here"
+msgstr "検索する"
+
+#: inc/template-tags.php:576
+msgid "Search for:"
+msgstr "検索対象:"
+
+#: inc/template-tags.php:571
+msgid "search again"
+msgstr "再検索"
+
+#: inc/template-tags.php:133
+msgid "Error 404"
+msgstr "エラー 404"
+
+#: inc/template-tags.php:96
+msgid "Archive by category"
+msgstr "カテゴリー別アーカイブ"
+
+#: inc/template-tags.php:91 inc/template-tags.php:94
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:340
+msgid "Yoast Plugin"
+msgstr "Yoast プラグイン"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:339
+msgid "Theme Default 2"
+msgstr "テーマのデフォルト 2"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:338
+msgid "Theme Default 1"
+msgstr "テーマのデフォルト 1"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:333
+msgid "You need to install and activate the respected plugin to show their Breadcrumb. Otherwise, your default theme Breadcrumb will appear. If you see error in search console, then we recommend to use plugin Breadcrumb."
+msgstr "パンくずリストを表示するには、対応するプラグインをインストールしてアクティブ化する必要があります。それ以外の場合は、デフォルトのテーマのパンくずリストが表示されます。サーチコンソールにエラーが表示される場合は、パンくずリストプラグインを使用することをお勧めします。"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:332
+msgid "Select Breadcrumb Type"
+msgstr "パンくずリストの種類を選択してください"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:312
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:292
+msgid "Hide / Show Section"
+msgstr "セクションを表示 / 非表示"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:273
+msgid "Settings"
+msgstr "設定"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:253
+msgid "Site Breadcrumb"
+msgstr "サイトのブレッドクラム"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:174
+msgid "WooCommerce Products"
+msgstr "WooCommerce 商品"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:66
+msgid "1 Column"
+msgstr "1カラム"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:60
+msgid "Select Widget Column"
+msgstr "ウィジェットのアイコンを選択"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:20
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:39
+msgid "Footer Widget"
+msgstr "フッターウィジェット"
+
+#: inc/customizer/customizer-settings/newsmash-footer-customize-setting.php:10
+msgid "Footer Options"
+msgstr "フッター設定"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:98
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:132
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:77
+msgid "Front & Post Page"
+msgstr "フロントページとポストページ"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:97
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:131
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:76
+msgid "Post Page"
+msgstr "投稿ページ"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:96
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:130
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:75
+msgid "Front Page"
+msgstr "フロントページ"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:72
+msgid "Featured Link Content"
+msgstr "注目のリンクコンテンツ"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:50
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:50
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:57
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:50
+msgid "Hide/Show?"
+msgstr "非表示/表示"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:31
+msgid "Featured Link Setting"
+msgstr "注目のリンクの設定"
+
+#: inc/customizer/customizer-settings/newsmash-featured-link-customize-setting.php:9
+msgid "Featured Link Section"
+msgstr "注目のリンクセクション"
+
+#: inc/customizer/customizer-plugin-notice/newsmash-notify-plugin.php:21
+msgid "Deactivate"
+msgstr "停止"
+
+#: inc/customizer/customizer-plugin-notice/newsmash-notify-plugin.php:20
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/customizer/customizer-plugin-notice/newsmash-notify-plugin.php:19
+msgid "Install and Activate"
+msgstr "インストールと有効化"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:191
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:498
+msgid "Light: 200"
+msgstr "Light: 200"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:190
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:497
+msgid "Thin: 100"
+msgstr "Thin: 100"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:184
+msgid "Weight"
+msgstr "太字"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:145
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:454
+msgid "Letter Spacing"
+msgstr "文字間隔"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:103
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:409
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:62
+msgid "Size"
+msgstr "大きさ"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:38
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:345
+msgid "Font Family"
+msgstr "Font Family"
+
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:19
+msgid "Body Typography"
+msgstr "Body タイポグラフィ"
+
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:87
+msgid "Top Tags"
+msgstr "人気のタグ"
+
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:70
+msgid "Display Top Tags on"
+msgstr "上位のタグを表示する"
+
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:31
+msgid "Top Tags Setting"
+msgstr "トップタグ設定"
+
+#: inc/customizer/customizer-settings/newsmash-top-tags-customize-setting.php:9
+msgid "Top Tags Section"
+msgstr "トップタグセクション"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1307
+msgid "Colors"
+msgstr "カラー"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1274
+msgid "Next / Preview"
+msgstr "次へ / プレビュー"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1273
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:43
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:189
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:244
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:349
+#: inc/customizer/customizer-settings/newsmash-typography-customize-setting.php:550
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:43
+msgid "Add new field"
+msgstr "新規フィールドを追加"
+
+#: inc/class-wp-bootstrap-navwalker.php:365
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: header.php:21
+msgid "Skip to content"
+msgstr "内容をスキップ"
+
+#: functions.php:126
+msgid "The Footer Widget Area"
+msgstr "フッターウィジェットエリア"
+
+#: functions.php:124
+msgid "Footer  "
+msgstr "フッター  "
+
+#: functions.php:114
+msgid "The Primary Widget Area"
+msgstr "主要なウィジェットエリア"
+
+#: functions.php:112
+msgid "Sidebar Widget Area"
+msgstr "サイドバーウィジェットエリア"
+
+#: functions.php:103
+msgid "This Widget area for WooCommerce Widget"
+msgstr "WooCommerce のウィジェットエリア"
+
+#: functions.php:101
+msgid "WooCommerce Widget Area"
+msgstr "WooCommerce ウィジェットエリア"
+
+#: functions.php:45
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:133
+msgid "Posts to be shown on Other Story section"
+msgstr "投稿は「その他のストーリー」セクションに表示されます"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:114
+msgid "Other Story Content"
+msgstr "その他のストーリーコンテンツ"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:81
+msgid "Other Story"
+msgstr "他の物語"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:72
+msgid "Other Story Content Head"
+msgstr "その他のストーリーコンテンツのヘッド"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:31
+msgid "Other Story Setting"
+msgstr "その他のストーリー設定"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:9
+msgid "Other Story Section"
+msgstr "その他のストーリーセクション"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:180
+msgid "After Section"
+msgstr "セクション後"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:158
+msgid "Before Section"
+msgstr "セクションの前"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:135
+msgid "Before / After Content"
+msgstr "コンテンツの前後"
+
+#: inc/customizer/customizer-settings/newsmash-latest-post-customize-setting.php:92
+msgid "Posts to be shown on latest_post section"
+msgstr "最新投稿セクションに表示される投稿"
+
+#: inc/widgets/posts-slider.php:25
+msgid "DT : Posts Slider"
+msgstr "DT: 記事スライダー"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:571
+msgid "Single Page Sidebar Option"
+msgstr "シングルページのサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:544
+msgid "Archive Page Sidebar Option"
+msgstr "アーカイブページのサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:492
+msgid "Frontpage Sidebar Option"
+msgstr "フロントページのサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:651
+msgid "WooCommerce Page Sidebar Option"
+msgstr "WooCommerce ページのサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:624
+msgid "Search Page Sidebar Option"
+msgstr "検索ページのサイドバーオプション"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:84
+msgid "Site Title Size"
+msgstr "サイトタイトルのサイズ"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:243
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:242
+msgid "Light"
+msgstr "ライト"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:825
+msgid "Sticky Header"
+msgstr "固定ヘッダー"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:806
+msgid "Header Sticky"
+msgstr "ヘッダーを固定する"
+
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:479
+#: inc/customizer/controls/code/customizer-repeater/class/customizer-repeater-control.php:698
+msgid "Video Url"
+msgstr "動画 URL"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1132
+msgid "Hide/Show Post Format Icon?"
+msgstr "投稿フォーマットアイコンを非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1112
+msgid "Hide/Show Social Share?"
+msgstr "ソーシャルアイコンを非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:197
+msgid "Hide/Show Single Post Navigation?"
+msgstr "単一投稿ナビゲーションを非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-prebuilt-page-customize-setting.php:177
+msgid "Hide/Show Single Post Author?"
+msgstr "単一投稿の作成者を非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-header-customize-setting.php:793
+msgid "Open in New Tab ?"
+msgstr "新しいタブで開きますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:212
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:257
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:468
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1033
+msgid "Hide/Show Date?"
+msgstr "日付を非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:192
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:237
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:488
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1013
+msgid "Hide/Show Author?"
+msgstr "著者を非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:172
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:217
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:448
+msgid "Hide/Show Category?"
+msgstr "カテゴリを非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-other-story-customize-setting.php:152
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:197
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:428
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:973
+msgid "Hide/Show Title?"
+msgstr "タイトルを非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:369
+msgid "Hide/Show Tab Post?"
+msgstr "タブ投稿を非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:297
+msgid "Hide/Show Views?"
+msgstr "ビューを非表示 / 表示しますか ?"
+
+#: inc/customizer/customizer-settings/newsmash-slider-customize-setting.php:277
+#: inc/customizer/customizer-settings/newsmash-theme-customize-setting.php:1053
+msgid "Hide/Show Comment?"
+msgstr "コメントを非表示 / 表示しますか ?"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/themes/newsmash-free/"
+msgstr "https://desertthemes.com/themes/newsmash-free/"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://desertthemes.com/"
+msgstr "https://desertthemes.com/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "DesertThemes"
+msgstr "DesertThemes"

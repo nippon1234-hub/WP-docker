@@ -1,0 +1,591 @@
+# Translation of Themes - Flixita in Japanese
+# This file is distributed under the same license as the Themes - Flixita package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-05-17 13:04:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Flixita\n"
+
+#. Description of the theme
+#: style.css
+#, gp-priority: high
+msgid "Lightning Fast Speed & Responsive Theme. Flixita is a responsive and fully customizable theme to create any kind of websites. The advanced admin panel will enable you to customize it without any technical knowledge. This theme is lightweight, it will enable you to create almost any type of website such a blog, portfolio, acting and shooting industry, total trendy news, newspaper, mega magazine, fashion, dark themes, petcare, animals wildlife, wooden architecture, plumbing contractor, painting estate, interior design, rooms furniture, home decoration, green floral nature, construction, corporate, multiple agency, business promotion, dark variation, industries, Beauty & spa salons, photography, gym, fitness, health, medical, startups, business agencies, law firms, travel, NGO, charity, yoga, kids education, training institute, university portal, restaurant, meta shop, quick magazines, mutual fund, finance, accounting, consulting ,travel agency website. Theme is fully compatible with popular WordPress plugins like Elementor Page Builder, Slider, Carousal, Beaver Builder, Brizy, Visual Composer, Divi, SiteOrigin, Gutenberg, Block-Enabled, WooCommerce, WPML, Yoast SEO, Shortcode, Jetpack, Contact Form 7, Mailchimp for WordPress, bbPress, Demo Importer, WPForms and more. Your WordPress website will never be let down with this theme.  View the demo of Flixita Pro https://demo.themesdaddy.com/flixita-pro/"
+msgstr ""
+"超高速スピードと応答性の高いテーマ。 Flixita は、あらゆる種類の  \n"
+"ウェブサイトを作成できる、応答性に優れ、完全にカスタマイズ可能なテーマです。 高度な管理パネルを使用すると、技術的な知識がなくてもカスタマイズできます。 このテーマは軽量で、ブログ、ポートフォリオ、俳優業や撮影業界、トレンディなニュース、新聞、メガマガジン、ファッション、ダークテーマ、ペットケア、野生動物、木造建築、配管など、ほぼあらゆる種類の ウェブサイト を作成できます。 請負業者、絵画エステート、インテリア デザイン、部屋の家具、家の装飾、緑の花の性質、建設、企業、複数の代理店、ビジネス プロモーション、ダーク バリエーション、産業、美容 & スパ サロン、写真、ジム、フィットネス、健康、医療、スタートアップ、 企業代理店、法律事務所、旅行、NGO、慈善団体、ヨガ、子供の教育、研修機関、大学ポータル、レストラン、メタショップ、クイックマガジン、投資信託、金融、会計、コンサルティング、旅行代理店のウェブサイト。 テーマは、Elementor Page Builder、Slider、Carousal、Beaver Builder、Brizy、Visual Composer、Divi、SiteOrigin、Gutenberg、Block-Enabled、WooCommerce、WPML、Yoast SEO、Shortcode、Jetpack、Contact Form 7 などの人気の WordPress プラグインと完全に互換性があります。 WordPress、bbPress、デモ インポーター、WPForms などの Mailchimp。 あなたの WordPress ウェブサイトがこのテーマで失望することは決してありません。"
+
+#. Theme Name of the theme
+#: style.css
+#, gp-priority: high
+msgid "Flixita"
+msgstr "Flixita"
+
+#: core/customizer/flixita-default-options.php:18
+msgid "Get in Touch"
+msgstr "お問い合わせ"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:574
+msgid "Get started with %1$s"
+msgstr "%1$sを使い始める"
+
+#: core/core.php:568
+msgid "Install and activate <strong>Daddy Plus</strong> plugin for taking full advantage of all the features this theme has to offer."
+msgstr "このテーマが提供するすべての機能を最大限に活用するには、<strong>Daddy Plus</strong> プラグインをインストールしてアクティブ化します。"
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link
+#. ending html tag.
+#: core/core.php:564
+msgid "Welcome! Thank you for choosing %1$s!"
+msgstr "ようこそ ! %1$s をお選びいただきありがとうございます !"
+
+#: core/core.php:557
+msgid "Theme Screenshot"
+msgstr "テーマのスクリーンショット"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:22
+msgid "Share a Good Review"
+msgstr "良いレビューを共有する"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:18
+msgid "Premium Demo"
+msgstr "プレミアム版デモ"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:16
+msgid "Need Support ?"
+msgstr "サポートが必要ですか?"
+
+#: woocommerce/content-product.php:34
+msgid "Sale"
+msgstr "販売"
+
+#: woocommerce/cart/mini-cart.php:134 woocommerce/cart/mini-cart.php:266
+msgid "No products in the cart."
+msgstr "カートに商品はありません。"
+
+#: woocommerce/cart/mini-cart.php:112 woocommerce/cart/mini-cart.php:241
+msgid "Checkout"
+msgstr "支払い"
+
+#: woocommerce/cart/mini-cart.php:71 woocommerce/cart/mini-cart.php:201
+msgid "Remove this item"
+msgstr "このアイテムを削除"
+
+#: woocommerce/cart/mini-cart.php:46 woocommerce/cart/mini-cart.php:176
+msgid "Total:"
+msgstr "合計:"
+
+#: template-parts/content.php:70
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/content-page.php:69 template-parts/content.php:65
+msgid "Read More"
+msgstr "続きを読む"
+
+#: template-parts/content-page.php:45 template-parts/content.php:41
+msgid "Comments"
+msgstr "コメント"
+
+#: template-parts/content-none.php:32
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: template-parts/content-none.php:27
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:14
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: template-parts/author-details.php:36
+msgid "View All Post"
+msgstr "すべての投稿を見る"
+
+#. Translators: %1$s: <a> tag. %2$s: </a>.
+#: template-parts/author-details.php:26
+msgid "You haven&rsquo;t entered your Biographical Information yet. %1$sEdit your Profile%2$s now."
+msgstr "まだ経歴情報を入力していません。 %1$s今すぐプロフィールを編集してください%2$s。"
+
+#: searchform.php:8
+msgid "Search for:"
+msgstr "検索対象:"
+
+#. Template Name of the theme
+msgid "Builder Page"
+msgstr "ビルダーページ"
+
+#: header.php:132
+msgid "Header Close Menu"
+msgstr "ヘッダーメニューを閉じる"
+
+#: header.php:123
+msgid "Menu Collaped"
+msgstr "折りたたまれたメニュー"
+
+#: header.php:86
+msgid "Search Popup Close"
+msgstr "検索ポップアップを閉じる"
+
+#: header.php:83
+msgid "Type To Search"
+msgstr "入力して検索"
+
+#: header.php:82
+msgid "Site Search"
+msgstr "サイト検索"
+
+#: header.php:79
+msgid "Search Popup"
+msgstr "検索のポップアップ"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "内容をスキップ"
+
+#: functions.php:18
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "全幅ページ"
+
+#. Template Name of the theme
+msgid "Frontpage"
+msgstr "フロントページ"
+
+#: footer.php:7
+msgid "scrollingUp"
+msgstr "scrollingUp"
+
+#: core/theme-menu/class-bootstrap-navwalker.php:227
+msgid "Add a menu"
+msgstr "メニューを追加"
+
+#: core/customizer/flixita-panels-and-sections.php:60
+msgid "Footer Setting"
+msgstr "フッター設定"
+
+#: core/customizer/flixita-panels-and-sections.php:52
+msgid "Blog Setting"
+msgstr "ブログ設定"
+
+#: core/customizer/flixita-panels-and-sections.php:43
+msgid "Top Scroller Setting"
+msgstr "トップスクロール設定"
+
+#: core/customizer/flixita-panels-and-sections.php:36
+msgid "Page Header Setting"
+msgstr "ページヘッダーの設定"
+
+#: core/customizer/flixita-panels-and-sections.php:31
+msgid "General Options"
+msgstr "基本設定"
+
+#: core/customizer/flixita-panels-and-sections.php:24
+msgid "Menu Bar Setting"
+msgstr "メニューバーの設定"
+
+#: core/customizer/flixita-panels-and-sections.php:17
+msgid "Top Bar Setting"
+msgstr "トップバーの設定"
+
+#: core/customizer/custom-controls/customize-upgrade-control.php:20
+#: core/customizer/flixita-panels-and-sections.php:11
+msgid "Upgrade to Pro"
+msgstr "プロ仕様にアップグレードする"
+
+#: core/customizer/flixita-general.php:288
+msgid "Copyright"
+msgstr "著作権"
+
+#: core/customizer/flixita-general.php:275
+msgid "Footer  Copyright"
+msgstr "フッターの著作権"
+
+#: core/customizer/flixita-general.php:259
+msgid "Content"
+msgstr "コンテンツ"
+
+#: core/customizer/flixita-general.php:258
+msgid "Meta"
+msgstr "メタ"
+
+#: core/customizer/flixita-general.php:254
+msgid "Drag & Drop post items to re-arrange the order and also hide and show items as per the need by clicking on the eye icon."
+msgstr "投稿アイテムをドラッグ アンド ドロップして順序を並べ替えたり、目のアイコンをクリックして必要に応じてアイテムを非表示にしたり表示したりすることもできます。"
+
+#: core/customizer/flixita-general.php:243
+msgid "Blog/Archive/Single"
+msgstr "ブログ/アーカイブ/シングル"
+
+#: core/customizer/flixita-general.php:227
+msgid "Overlay Color"
+msgstr "オーバーレイカラー"
+
+#: core/customizer/flixita-general.php:214
+msgid "Opacity"
+msgstr "不透明度"
+
+#: core/customizer/flixita-general.php:187
+msgid "Page Header"
+msgstr "ページヘッダー"
+
+#: core/customizer/flixita-general.php:158
+msgid "Sticky Header"
+msgstr "スティッキーヘッダー"
+
+#: core/customizer/flixita-general.php:141
+msgid "Open in New Tab ?"
+msgstr "新しいタブで開きますか?"
+
+#: core/customizer/flixita-general.php:115
+msgid "Label"
+msgstr "ラベル"
+
+#: core/customizer/flixita-general.php:88
+msgid "Button"
+msgstr "ボタン"
+
+#: core/customizer/flixita-general.php:61 searchform.php:9 searchform.php:11
+msgid "Search"
+msgstr "検索"
+
+#: core/customizer/flixita-general.php:47
+#: core/customizer/flixita-general.php:74
+#: core/customizer/flixita-general.php:100
+#: core/customizer/flixita-general.php:169
+#: core/customizer/flixita-general.php:200
+msgid "Enable / Disable ?"
+msgstr "有効 / 無効 ?"
+
+#: core/customizer/flixita-general.php:34
+msgid "Cart"
+msgstr "カート"
+
+#: core/customizer/flixita-general.php:18
+msgid "Logo Size"
+msgstr "ロゴサイズ"
+
+#: core/customizer/flixita-default-options.php:29
+msgid "Copyright &copy; {current_year}. Created by %s. Powered by %s."
+msgstr "Copyright &copy; {current_year}. Created by %s. Powered by %s."
+
+#: core/customizer/customizer.php:74
+msgid "Deactivate"
+msgstr "無効化"
+
+#: core/customizer/customizer.php:73
+msgid "Activate"
+msgstr "有効化"
+
+#: core/customizer/customizer.php:72
+msgid "Install and Activate"
+msgstr "インストールと有効化"
+
+#: core/customizer/customizer.php:71
+msgid "Add More Features"
+msgstr "さらに機能を追加する"
+
+#: core/customizer/customizer.php:70
+msgid "Recommended Actions"
+msgstr "推奨されるアクション"
+
+#. translators: %s: plugin name
+#: core/customizer/customizer.php:64
+msgid "Recommended Plugin: If you want to show all the features and business sections of the FrontPage. please install and activate %s plugin"
+msgstr "推奨プラグイン 表紙 のすべての機能とビジネス セクションを表示したい場合。 %s プラグインをインストールして有効化してください"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:571
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:604
+msgid "Add Icon"
+msgstr "アイコンを追加"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:566
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:596
+msgid "Remove Icon"
+msgstr "アイコンの削除"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:549
+msgid "Social icons"
+msgstr "ソーシャルアイコン"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:541
+msgid "None"
+msgstr "なし"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:536
+msgid "Image type"
+msgstr "画像の形式"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:525
+msgid "Center"
+msgstr "中心"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:521
+msgid "Right"
+msgstr "右"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:517
+msgid "Left"
+msgstr "左"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:513
+msgid "Align"
+msgstr "整列"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:505
+msgid "Upload Image"
+msgstr "画像をアップロードする"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:502
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:540
+msgid "Image"
+msgstr "画像"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:467
+msgid "http://fontawesome.io/icons/"
+msgstr "http://fontawesome.io/icons/"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:466
+msgid "Note: Some icons may not be displayed here. You can see the full list of icons at %1$s."
+msgstr "注: 一部のアイコンはここに表示されない場合があります。 アイコンの完全なリストは %1$s で確認できます。"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:461
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:539
+msgid "Icon"
+msgstr "アイコン"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:450
+msgid "Open link in new tab:"
+msgstr "新しいタブでリンクを開きます:"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:414
+msgid "Delete field"
+msgstr "フィールドの削除"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:315
+msgid "Delete %s"
+msgstr "%sを削除"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:278
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:384
+msgid "Button Text"
+msgstr "ボタンのテキスト"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:269
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:394
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:563
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:585
+#: core/customizer/flixita-general.php:129
+msgid "Link"
+msgstr "リンク"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:261
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:376
+msgid "Button Label"
+msgstr "ボタンラベル"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:254
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:369
+msgid "Description"
+msgstr "説明"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:246
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:360
+msgid "Subtitle 2"
+msgstr "字幕2"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:238
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:352
+msgid "Subtitle"
+msgstr "字幕"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:230
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:344
+#: core/customizer/flixita-general.php:257
+msgid "Title"
+msgstr "タイトル"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:34
+msgid "Customizer Repeater"
+msgstr "カスタマイザーの繰り返し"
+
+#: core/customizer/customizer-repeater/class/customizer-repeater-control.php:29
+msgid "Add new field"
+msgstr "新規項目を追加"
+
+#: core/customizer/customizer-notice/flixita-customizer-notify.php:114
+msgid "Activating"
+msgstr "有効化"
+
+#: core/core.php:522
+msgid "Page"
+msgstr "ページ"
+
+#: core/core.php:516
+msgid "Error 404 "
+msgstr "404 エラー "
+
+#: core/core.php:511
+msgid "Articles posted by "
+msgstr "投稿者: "
+
+#: core/core.php:504
+msgid "Posts tagged "
+msgstr "タグ付きの投稿 "
+
+#: core/core.php:389
+msgid "Search results for "
+msgstr "検索結果: "
+
+#: core/core.php:383
+msgid "Archive by category"
+msgstr "カテゴリー別アーカイブ"
+
+#: core/core.php:377
+msgid "Home"
+msgstr "ホーム"
+
+#: core/core.php:359
+msgid "Author: %s"
+msgstr "作者別: %s"
+
+#: core/core.php:357
+msgid "Error 404"
+msgstr "エラー404"
+
+#: core/core.php:355
+msgid "Tag Archives: %s"
+msgstr "タグのアーカイブ: %s"
+
+#: core/core.php:353
+msgid "Category Archives: %s"
+msgstr "カテゴリ アーカイブ: %s"
+
+#: core/core.php:351
+msgid "Yearly Archives: %s"
+msgstr "年間アーカイブ: %s"
+
+#: core/core.php:349
+msgid "Monthly Archives: %s"
+msgstr "月別アーカイブ: %s"
+
+#: core/core.php:347
+msgid "Daily Archives: %s"
+msgstr "毎日のアーカイブ: %s"
+
+#: core/core.php:330 header.php:63 woocommerce/cart/mini-cart.php:39
+#: woocommerce/cart/mini-cart.php:122 woocommerce/cart/mini-cart.php:169
+#: woocommerce/cart/mini-cart.php:254
+msgid "0"
+msgstr "0"
+
+#: core/core.php:231
+msgid "This Widget area for WooCommerce Widget"
+msgstr "WooCommerce ウィジェットのこのウィジェット領域"
+
+#: core/core.php:229
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#: core/core.php:217
+msgid "The Footer Widget Area 4"
+msgstr "フッターウィジェットエリア4"
+
+#: core/core.php:215
+msgid "Footer  Sidebar 4"
+msgstr "フッターサイドバー 4"
+
+#: core/core.php:204
+msgid "The Footer Widget Area 3"
+msgstr "フッターウィジェットエリア3"
+
+#: core/core.php:202
+msgid "Footer  Sidebar 3"
+msgstr "フッターサイドバー 3"
+
+#: core/core.php:191
+msgid "The Footer Widget Area 2"
+msgstr "フッターウィジェットエリア2"
+
+#: core/core.php:189
+msgid "Footer  Sidebar 2"
+msgstr "フッターサイドバー 2"
+
+#: core/core.php:178
+msgid "The Footer Widget Area 1"
+msgstr "フッターウィジェットエリア 1"
+
+#: core/core.php:176
+msgid "Footer  Sidebar 1"
+msgstr "フッター サイドバー1"
+
+#: core/core.php:163 core/core.php:165
+msgid "Main Sidebar Widget"
+msgstr "メインサイドバーウィジェット"
+
+#: comments.php:45
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: comments.php:26 comments.php:40
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: comments.php:25 comments.php:39
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: comments.php:23 comments.php:37
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-12"
+msgstr "col-lg-12"
+
+#: archive.php:11 index.php:16 page.php:15 page.php:19 page.php:23
+#: search.php:11 single.php:11 woocommerce.php:11
+msgid "col-lg-8"
+msgstr "col-lg-8"
+
+#: 404.php:16
+msgid "Go Home Page"
+msgstr "ホームページへ"
+
+#: 404.php:14
+msgid "The page you are looking is not available or has been removed."
+msgstr "探しているページは利用できないか、削除されました。"
+
+#: 404.php:13
+msgid "404 Page Not Found"
+msgstr "404 エラー: ページが見つかりません"
+
+#. Author URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/"
+msgstr "https://themesdaddy.com/"
+
+#. Theme URI of the theme
+#: style.css
+#, gp-priority: low
+msgid "https://themesdaddy.com/themes/flixita-free/"
+msgstr "https://themesdaddy.com/themes/flixita-free/"
+
+#. Author of the theme
+#: style.css
+#, gp-priority: low
+msgid "Themes Daddy"
+msgstr "Themes Daddy"
