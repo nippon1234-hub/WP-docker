@@ -22,7 +22,6 @@ wp-content/upgrade/
 sitemap.xml
 sitemap.xml.gz
 
-
 # プラグイン（管理が必要な場合は個別に追加）
 wp-content/plugins/
 # カスタムプラグインを管理したい場合
@@ -34,10 +33,14 @@ wp-content/themes/twenty*/
 !wp-content/themes/your-custom-theme/
 
 # Docker関連
-# データベースボリューム
+# データベースボリューム（自動生成されるため除外）
 db_data/
 
-# 環境設定（秘匿情報）
+# データベースエクスポートファイルは含める
+!sql-export/
+!sql-export/*.sql
+
+# 環境設定（秘匿情報がある場合は除外）
 .env
 
 # OS関連
