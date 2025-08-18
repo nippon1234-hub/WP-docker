@@ -2,7 +2,8 @@
 # WordPressコアファイルは除外（Dockerで管理するため）
 wp-admin/
 wp-includes/
-*.php
+# WordPressのルートにあるPHPファイルのみ除外
+/*.php
 !wp-content/
 
 # WordPress設定ファイル
@@ -20,6 +21,7 @@ wp-content/upgrade/
 .htaccess
 sitemap.xml
 sitemap.xml.gz
+
 
 # プラグイン（管理が必要な場合は個別に追加）
 wp-content/plugins/
