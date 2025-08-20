@@ -10,12 +10,20 @@ wp-includes/
 wp-config.php
 wp-config-sample.php
 
-# アップロードファイル（画像など）
-wp-content/uploads/
+# アップロードファイル（画像は同期、キャッシュのみ除外）
+# wp-content/uploads/ をコメントアウトして画像を同期可能に
+# wp-content/uploads/
 wp-content/cache/
 wp-content/backup*/
 wp-content/backups/
 wp-content/upgrade/
+
+# アップロード内の不要ファイルのみ除外
+wp-content/uploads/cache/
+wp-content/uploads/temp/
+wp-content/uploads/backup*/
+wp-content/uploads/*.tmp
+wp-content/uploads/*.log
 
 # WordPress自動生成ファイル
 .htaccess
